@@ -3,7 +3,7 @@
 
 title: Yunhai Xiang
 description: Yunhai Xiang's personal academic website
-baseurl: "yunhaimath" # the subpath of your site, e.g. /blog/
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yunhaimath.com" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
