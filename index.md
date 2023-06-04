@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-Hello! My name is Yunhai Xiang (in Chinese: 项云海, pronounced as “yee-o-en-hi si-ang”), and I also go by Daniel informally. My pronouns are he/him. I'm a graduate student of pure mathematics at the University of Western Ontario supervized by Prof. Ajneet Dhillon. I can be reached by [email](mailto:y38xiang@uwaterloo.ca). I have a math blog called [_The Singularity_](https://thesingularity.me){:target="_blank"}, where I write about math that I learned recently and more.
+Hello! My name is Yunhai Xiang (in Chinese: 项云海, pronounced as “yee-o-en-hi si-ang”), and I also go by Daniel informally. My pronouns are he/him. I'm a graduate student of pure mathematics at the University of Western Ontario supervized by Prof. Ajneet Dhillon. I can be reached by [email](mailto:yxiang72@uwo.ca). I have a math blog called [_The Singularity_](https://thesingularity.me){:target="_blank"}, where I write about math that I learned recently and more.
 
 My research interests primarily lie at the interface of [algebraic geometry](https://ncatlab.org/nlab/show/algebraic+geometry){:target="_blank"} and [homotopy theory](https://ncatlab.org/nlab/show/homotopy+theory){:target="_blank"}. For more information, see my [Research](/research) page. Outside of research, I am also broadly curious about many other topics in mathematics. One particular topic I'm very curious about is [homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory){:target="_blank"}.
 
