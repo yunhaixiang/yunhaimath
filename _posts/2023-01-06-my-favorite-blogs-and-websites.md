@@ -26,7 +26,6 @@ tags: [favorites]
 - [Daniel Litt's Betalog](https://www.daniellitt.com/blog){:target="_blank"}
 - [Geometry Bulletin Board](https://burttotaro.wordpress.com/){:target="_blank"}
 - [Math Counterexamples](http://www.mathcounterexamples.net){:target="_blank"}
-- [Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/){:target="_blank"}
 - [Gabe Khan's Blog](https://differentialgeometri.wordpress.com){:target="_blank"}
 - [Fred Akalin's Blog](https://www.akalin.com){:target="_blank"}
 - [The Alien Number](https://aliennumbers.wordpress.com){:target="_blank"}
@@ -70,11 +69,12 @@ tags: [favorites]
 - [ShareLaTeX](https://www.sharelatex.com){:target="_blank"}
 - [CoCalc](https://cocalc.com){:target="_blank"}
 - [WolframAlpha](https://www.wolframalpha.com){:target="_blank"}
-- [math2latex](https://math2latex.com){:target="_blank"}
 - [Mathpix](https://mathpix.com){:target="_blank"}
 - [Typst](https://typst.app/){:target="_blank"}
+- [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html){:target="_blank"}
+- [LaTeX](https://www.latex-project.org){:target="_blank"}
 - [Gerby](https://gerby-project.github.io){:target="_blank"}
-- [PreTeXt](https://pretextbook.org/gallery.html){:target="_blank"}
+- [PreTeXt](https://pretextbook.org/){:target="_blank"}
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
@@ -83,7 +83,7 @@ tags: [favorites]
 - [Linggle](https://linggle.com){:target="_blank"}
 - [Obsidian](https://obsidian.md){:target="_blank"}
 - [Manim](https://www.manim.community){:target="_blank"}
-- [reanimate](https://reanimate.github.io){:target="_blank"}
+- [Reanimate](https://reanimate.github.io){:target="_blank"}
 - [VisualPDE](https://visualpde.com/){:target="_blank"}
 - [SideFx Houdini](https://www.sidefx.com/products/houdini/){:target="_blank"}
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d){:target="_blank"}

@@ -37,3 +37,4 @@ tags: [favorites]
 - Franz Liszt, [*19 Hungarian Rhapsodies, S.244, R.106*](https://www.classicalarchives.com/newca/#!/Work/16036){:target="_blank"}
 - Frédéric Chopin, [*Ballade No. 1 in G minor*](https://www.classicalarchives.com/newca/#!/Work/6991){:target="_blank"}
 - Dmitri Shostakovich, [*String Quartet No. 8 in C minor, Op. 110*](https://www.classicalarchives.com/newca/#!/Work/26323){:target="_blank"}
+- Dimitri Shostakovich, [*5 Pieces for 2 Violins and Piano*](https://www.classicalarchives.com/newca/#!/Work/704764){:target="_blank"}
