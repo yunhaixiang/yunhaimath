@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests primarily lie in [algebraic geometry](https://ncatlab.org/nlab/show/algebraic+geometry){:target="_blank"} and especially in topics of a homological or homotopical flavor. There are a lot of topics that I'm very curious about would love to explore in the future: [motivic cohomology](https://ncatlab.org/nlab/show/motivic+cohomology){:target="_blank"}, [motivic homotopy theory](https://ncatlab.org/nlab/show/motivic+homotopy+theory){:target="_blank"}, and [algebraic K-theory](https://ncatlab.org/nlab/show/algebraic+K-theory){:target="_blank"} to name a few.
+My research interests primarily lie in [algebraic geometry](https://ncatlab.org/nlab/show/algebraic+geometry){:target="_blank"} and especially in topics of a homological or homotopical flavor. Some topics in algebraic geometry that I'm very curious about include: [motivic cohomology](https://ncatlab.org/nlab/show/motivic+cohomology){:target="_blank"}, [motivic homotopy theory](https://ncatlab.org/nlab/show/motivic+homotopy+theory){:target="_blank"}, [algebraic K-theory](https://ncatlab.org/nlab/show/algebraic+K-theory){:target="_blank"}, and [algebraic stacks](https://ncatlab.org/nlab/show/algebraic+stack){:target="_blank"}. 
 
 <!---
 
