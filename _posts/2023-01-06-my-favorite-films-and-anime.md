@@ -36,7 +36,7 @@ tags: [favorites]
 
 ### Documentaries
 - [*AlphaGo* (2017)](https://www.imdb.com/title/tt6700846/){:target="_blank"}
-- [*Th Surrounding Game* (2018)](https://www.imdb.com/title/tt3973724/){:target="_blank"}
+- [*The Surrounding Game* (2018)](https://www.imdb.com/title/tt3973724/){:target="_blank"}
 - [*A Pervert's Guide to Ideology* (2012)](https://www.imdb.com/title/tt2152198/){:target="_blank"}
 - [*A Pervert's Guide to Cinema* (2006)](https://www.imdb.com/title/tt0828154/){:target="_blank"}
 - [*Free Solo* (2018)](https://www.imdb.com/title/tt7775622/){:target="_blank"}
@@ -73,7 +73,7 @@ tags: [favorites]
 - [*My Dress-Up Darling* (2022)](https://www.imdb.com/title/tt15765670/){:target="_blank"}
 - [*Hinamatsuri* (2018)](https://www.imdb.com/title/tt8253044/){:target="_blank"}
 - [*Tsundere Children* (2017)](https://www.imdb.com/title/tt7155052/){:target="_blank"}
-- [*Sakura Trick*]
+- [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
 - [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 
@@ -84,7 +84,6 @@ tags: [favorites]
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/?ref_=adv_li_tt){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
-- [*Victorious*]
 - [*The Legend of Bruce Lee* (2008)](https://www.imdb.com/title/tt1059455/){:target="_blank"}
 - [*Sherlock* (2010)](https://www.imdb.com/title/tt1475582/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
