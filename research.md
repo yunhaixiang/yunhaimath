@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests primarily lie in [algebraic geometry](https://ncatlab.org/nlab/show/algebraic+geometry){:target="_blank"} and especially in topics of a homological or homotopical flavor. Some topics in algebraic geometry that I'm very curious about include: [motivic cohomology](https://ncatlab.org/nlab/show/motivic+cohomology){:target="_blank"}, [motivic homotopy theory](https://ncatlab.org/nlab/show/motivic+homotopy+theory){:target="_blank"}, [algebraic K-theory](https://ncatlab.org/nlab/show/algebraic+K-theory){:target="_blank"}, and [algebraic stacks](https://ncatlab.org/nlab/show/algebraic+stack){:target="_blank"}. 
+My research interests primarily lie in [algebraic geometry](https://ncatlab.org/nlab/show/algebraic+geometry){:target="_blank"} and especially in topics of a homological or homotopical flavor. Some topics I'm very curious about are: [motivic cohomology](https://ncatlab.org/nlab/show/motivic+cohomology){:target="_blank"}, [motivic homotopy theory](https://ncatlab.org/nlab/show/motivic+homotopy+theory){:target="_blank"}, [algebraic K-theory](https://ncatlab.org/nlab/show/algebraic+K-theory){:target="_blank"}, [algebraic stacks](https://ncatlab.org/nlab/show/algebraic+stack){:target="_blank"}, [moduli spaces](https://ncatlab.org/nlab/show/moduli+space){:target="_blank"}, and [higher categories](https://ncatlab.org/nlab/show/higher+category+theory){:target="_blank"}. 
 
 <!---
 

@@ -22,22 +22,16 @@ tags: [favorites]
 - [*Ip Man* (2008)](https://www.imdb.com/title/tt1220719/){:target="_blank"}
 - [*The Legend of Hei* (2019)](https://www.imdb.com/title/tt10734928/){:target="_blank"}
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
-- [*Coco* (2017)](https://www.imdb.com/title/tt2380307/){:target="_blank"}
-- [*Citizen Cane*]
-- [*2001 A Space Odyssey*]
-- [*The Matrix*]
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Let the Bullets Fly* (2010)](https://www.imdb.com/title/tt1533117/){:target="_blank"}
+- [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
 - [*Farewell my Concubine*]
 - [*Princess Mononoke*]
 - [*Perfect Blue*]
 - [*The Wind Rises*]
-- [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
 - [*Step Up* (2006)]
-- [*The Tigger Movie*]
-- [*Kung Fu Panda*]
-- [*Mr. and Mrs. Smith*]
 - [*The Martian*]
+- [*Citizen Cane*]
 
 
 ### Documentaries
@@ -49,9 +43,9 @@ tags: [favorites]
 - [*Exit Through the Gift Shop* (2010)](https://www.imdb.com/title/tt1587707){:target="_blank"}
 - [*N Is a Number: A Portrait of Paul Erdös* (1993)](https://www.imdb.com/title/tt0125425/){:target="_blank"}
 - [*David Copperfield: 15 Years of Magic* (1994)](https://www.imdb.com/title/tt0293381/){:target="_blank"}
-- [*Industrial Light & Magic: Creating the Impossible* (2010)]
-- [*Dealt* (2017)]
-- [*Alexander Grothendieck, sur les routes d'un génie* (2013)]
+- [*Industrial Light & Magic: Creating the Impossible* (2010)](https://www.imdb.com/title/tt1657302/)
+- [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
+- [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
 
 ### Anime
 - [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_srsg_0){:target="_blank"}
@@ -82,7 +76,6 @@ tags: [favorites]
 - [*Sakura Trick*]
 - [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
-- [*March Comes in Like a Lion*]
 
 ### TV Series
 
