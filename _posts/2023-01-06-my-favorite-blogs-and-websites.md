@@ -47,6 +47,7 @@ tags: [favorites]
 - [Numdam](http://www.numdam.org/?lang=en){:target="_blank"}
 - [Project Gutenberg](https://www.gutenberg.org){:target="_blank"}
 - [Project Euler](https://projecteuler.net){:target="_blank"}
+- [Wikiwand](https://www.wikiwand.com){:target="_blank"}
 - [On-Line Encyclopedia of Integer Sequences](https://oeis.org){:target="_blank"}
 - [Proof Wiki](https://proofwiki.org/wiki/Main_Page){:target="_blank"}
 - [Mathonline](http://mathonline.wikidot.com){:target="_blank"}

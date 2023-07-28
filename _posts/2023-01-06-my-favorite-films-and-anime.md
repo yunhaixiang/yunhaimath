@@ -32,6 +32,7 @@ tags: [favorites]
 - [*Step Up* (2006)]
 - [*The Martian*]
 - [*Citizen Cane*]
+- [*Brokeback Mountain*]
 
 
 ### Documentaries
@@ -76,6 +77,9 @@ tags: [favorites]
 - [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
 - [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
+- [*JoJo's Bizzare Adventures*]
+- [Neon Genesis Evangelion]
+- [Gintama]
 
 ### TV Series
 
