@@ -32,6 +32,7 @@ tags: [favorites]
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
+- [Wikisource](https://en.wikisource.org/wiki/Main_Page){:target="_blank"}
 - [nLab](https://ncatlab.org/nlab/show/HomePage){:target="_blank"}
 - [Stacks Project](https://stacks.math.columbia.edu){:target="_blank"}
 - [Kerodon](https://kerodon.net){:target="_blank"}

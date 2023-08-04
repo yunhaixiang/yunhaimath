@@ -47,6 +47,7 @@ tags: [favorites]
 - [*Industrial Light & Magic: Creating the Impossible* (2010)](https://www.imdb.com/title/tt1657302/)
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
 - [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
+- [*Wittgenstein: A Wonderful Life* (1989)](https://www.imdb.com/title/tt1119638/){:target="_blank"}
 
 ### Anime
 - [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_srsg_0){:target="_blank"}
