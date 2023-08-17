@@ -32,7 +32,8 @@ tags: [favorites]
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
-- [Wikisource](https://en.wikisource.org/wiki/Main_Page){:target="_blank"}
+- [Wikiwand](https://www.wikiwand.com){:target="_blank"}
+- [WikiSource](https://en.wikisource.org/wiki/Main_Page){:target="_blank"}
 - [nLab](https://ncatlab.org/nlab/show/HomePage){:target="_blank"}
 - [Stacks Project](https://stacks.math.columbia.edu){:target="_blank"}
 - [Kerodon](https://kerodon.net){:target="_blank"}
@@ -48,7 +49,6 @@ tags: [favorites]
 - [Numdam](http://www.numdam.org/?lang=en){:target="_blank"}
 - [Project Gutenberg](https://www.gutenberg.org){:target="_blank"}
 - [Project Euler](https://projecteuler.net){:target="_blank"}
-- [Wikiwand](https://www.wikiwand.com){:target="_blank"}
 - [On-Line Encyclopedia of Integer Sequences](https://oeis.org){:target="_blank"}
 - [Proof Wiki](https://proofwiki.org/wiki/Main_Page){:target="_blank"}
 - [Mathonline](http://mathonline.wikidot.com){:target="_blank"}
@@ -61,7 +61,6 @@ tags: [favorites]
 - [Goodreads](https://www.goodreads.com){:target="_blank"}
 - [IMDb](https://www.imdb.com/){:target="_blank"}
 - [IGN](https://www.ign.com/ca){:target="_blank"}
-- [WikiSource](https://en.wikisource.org/wiki/Main_Page){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
 

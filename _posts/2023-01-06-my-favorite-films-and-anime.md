@@ -25,14 +25,15 @@ tags: [favorites]
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Let the Bullets Fly* (2010)](https://www.imdb.com/title/tt1533117/){:target="_blank"}
 - [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
+- [*Step Up* (2006)](https://www.imdb.com/title/tt0462590/){:target="_blank"}
+- [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
 - [*Farewell my Concubine*]
 - [*Princess Mononoke*]
 - [*Perfect Blue*]
 - [*The Wind Rises*]
-- [*Step Up* (2006)]
-- [*The Martian*]
 - [*Citizen Cane*]
 - [*Brokeback Mountain*]
+- [*Monty Python and the Holy Grail* (1975)](https://www.imdb.com/title/tt0071853/){:target="_blank"}
 
 
 ### Documentaries
@@ -78,9 +79,10 @@ tags: [favorites]
 - [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
 - [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
-- [*JoJo's Bizzare Adventures*]
-- [Neon Genesis Evangelion]
+- [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
+- [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [Gintama]
+- [Legend of the Galactic Heroes]
 
 ### TV Series
 
@@ -99,5 +101,4 @@ tags: [favorites]
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
-- [*Monty Python and the Holy Grail* (1975)](https://www.imdb.com/title/tt0071853/){:target="_blank"}
 - [*Father Ted* (1995)](https://www.imdb.com/title/tt0111958/){:target="_blank"}
