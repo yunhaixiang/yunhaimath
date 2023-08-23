@@ -7,7 +7,6 @@ tags: [favorites]
 ---
 
 ### Movies 
-- [*Detachment* (2011)](https://www.imdb.com/title/tt1683526/){:target="_blank"}
 - [*Spirited Away* (2001)](https://www.imdb.com/title/tt0245429/){:target="_blank"}
 - [*Howl's Moving Castle* (2004)](https://www.imdb.com/title/tt0347149/){:target="_blank"}
 - [*Good Will Hunting* (1997)](https://www.imdb.com/title/tt0119217/){:target="_blank"}
@@ -18,9 +17,9 @@ tags: [favorites]
 - [*Paprika* (2006)](https://www.imdb.com/title/tt0851578/){:target="_blank"}
 - [*Borat* (2006)](https://www.imdb.com/title/tt0443453/){:target="_blank"}
 - [*The Imitation Game* (2014)](https://www.imdb.com/title/tt2084970/){:target="_blank"}
+- [*Detachment* (2011)](https://www.imdb.com/title/tt1683526/){:target="_blank"}
 - [*Theory of Everything* (2014)](https://www.imdb.com/title/tt2980516/){:target="_blank"}
 - [*Ip Man* (2008)](https://www.imdb.com/title/tt1220719/){:target="_blank"}
-- [*The Legend of Hei* (2019)](https://www.imdb.com/title/tt10734928/){:target="_blank"}
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Let the Bullets Fly* (2010)](https://www.imdb.com/title/tt1533117/){:target="_blank"}
@@ -28,11 +27,8 @@ tags: [favorites]
 - [*Step Up* (2006)](https://www.imdb.com/title/tt0462590/){:target="_blank"}
 - [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
 - [*Farewell my Concubine*]
-- [*Princess Mononoke*]
-- [*Perfect Blue*]
-- [*The Wind Rises*]
 - [*Citizen Cane*]
-- [*Brokeback Mountain*]
+- [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*Monty Python and the Holy Grail* (1975)](https://www.imdb.com/title/tt0071853/){:target="_blank"}
 
 
@@ -40,7 +36,6 @@ tags: [favorites]
 - [*AlphaGo* (2017)](https://www.imdb.com/title/tt6700846/){:target="_blank"}
 - [*The Surrounding Game* (2018)](https://www.imdb.com/title/tt3973724/){:target="_blank"}
 - [*A Pervert's Guide to Ideology* (2012)](https://www.imdb.com/title/tt2152198/){:target="_blank"}
-- [*A Pervert's Guide to Cinema* (2006)](https://www.imdb.com/title/tt0828154/){:target="_blank"}
 - [*Free Solo* (2018)](https://www.imdb.com/title/tt7775622/){:target="_blank"}
 - [*Exit Through the Gift Shop* (2010)](https://www.imdb.com/title/tt1587707){:target="_blank"}
 - [*N Is a Number: A Portrait of Paul Erdös* (1993)](https://www.imdb.com/title/tt0125425/){:target="_blank"}
@@ -83,6 +78,7 @@ tags: [favorites]
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [Gintama]
 - [Legend of the Galactic Heroes]
+- [Summertime Rendering]
 
 ### TV Series
 

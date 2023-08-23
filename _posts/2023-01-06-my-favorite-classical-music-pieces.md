@@ -20,7 +20,7 @@ tags: [favorites]
 - Felix Mendelssohn, [*Piano Concerto No. 1 in G minor, Op. 25*](https://www.classicalarchives.com/newca/#!/Work/17555){:target="_blank"}
 - Edvard Grieg, [*Piano Concerto in A minor, Op. 16*](https://www.classicalarchives.com/newca/#!/Work/58600){:target="_blank"}
 - Johannes Brahms, [*Piano Concerto No. 2 in B flat major, Op. 83*](https://www.classicalarchives.com/newca/#!/Work/5791){:target="_blank"}
-
+- Sergei Rachmaninoff, [*Rhapsody on a Theme of Paganini, Op. 43*]
 
 ### Sonatas
 - Ludwig van Beethoven, [*Piano Sonata No. 14 in C Sharp minor, Op. 27, No. 2*](https://www.classicalarchives.com/newca/#!/Work/3962){:target="_blank"}

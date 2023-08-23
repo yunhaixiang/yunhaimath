@@ -15,7 +15,6 @@ tags: [favorites]
 
 ### Non-fictions
 - Paul Lockhart, [_A Mathematician's Lament_ (2009)](https://www.goodreads.com/book/show/6232657-a-mathematician-s-lament){:target="_blank"}
-- G. H. Hardy, [_A Mathematician's Apology_ (1940)](https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology?ref=nav_sb_noss_l_19){:target="_blank"}
 - George Lakoff, [_Where Mathematics Come From_ (2000)](https://www.goodreads.com/book/show/53337.Where_Mathematics_Come_From){:target="_blank"}
 - Martin Aigner, Günter M. Ziegler, [*Proofs from THE BOOK* (1998)](https://www.goodreads.com/book/show/40898359-proofs-from-the-book){:target="_blank"}
 - Mark Levi, [*The Mathematical Mechanic* (2009)](https://www.goodreads.com/book/show/6418615-the-mathematical-mechanic){:target="_blank"}
@@ -31,3 +30,5 @@ tags: [favorites]
 
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
 - Yuri Manin, _Mathematics as a Metaphor_ (2007)
+- G. H. Hardy, _A Mathematician's Apology_ (1940)
+- H. A. Rowland, _A Plea for Pure Sciences_ (1883)
