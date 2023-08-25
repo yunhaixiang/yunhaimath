@@ -31,4 +31,5 @@ tags: [favorites]
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
 - Yuri Manin, _Mathematics as a Metaphor_ (2007)
 - G. H. Hardy, _A Mathematician's Apology_ (1940)
+- P. W. Anderson, _More is Different_ (1972)
 - H. A. Rowland, _A Plea for Pure Sciences_ (1883)
