@@ -22,6 +22,7 @@ tags: [favorites]
 - Johannes Brahms, [*Piano Concerto No. 2 in B flat Major, Op. 83*](https://www.classicalarchives.com/newca/#!/Work/5791){:target="_blank"}
 - Sergei Rachmaninoff, [*Rhapsody on a Theme of Paganini, Op. 43*](https://www.classicalarchives.com/newca/#!/Work/22514){:target="_blank"}
 - Sergei Prokofiev, [*Piano Concerto No. 2 in G Minor, Op. 16*](https://www.classicalarchives.com/newca/#!/Work/22000){:target="_blank"}
+- Sergei Prokofiev, [*Piano Concerto No. 3 in C Major, Op. 26*](https://www.classicalarchives.com/newca/#!/Work/78633){:target="_blank"}
 - Zhanhao He, Gang Chen, [*The Butterfly Lovers Violin Concerto*](https://www.classicalarchives.com/newca/#!/Work/573555){:target="_blank"}
 
 
