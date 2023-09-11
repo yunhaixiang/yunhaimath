@@ -33,3 +33,5 @@ tags: [favorites]
 - G. H. Hardy, _A Mathematician's Apology_ (1940)
 - P. W. Anderson, _More is Different_ (1972)
 - H. A. Rowland, _A Plea for Pure Sciences_ (1883)
+- W. V. O. Quine, _Two Dogmas of Empiracism_ (1951)
+- Saul Kripke, _Naming and Necessity_ (1980)

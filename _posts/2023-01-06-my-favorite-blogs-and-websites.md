@@ -76,6 +76,7 @@ tags: [favorites]
 - [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html){:target="_blank"}
 - [LaTeX](https://www.latex-project.org){:target="_blank"}
 - [Gerby](https://gerby-project.github.io){:target="_blank"}
+- [PubPub](https://www.pubpub.org/){:target="_blank"}
 - [PreTeXt](https://pretextbook.org/){:target="_blank"}
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
@@ -111,6 +112,7 @@ tags: [favorites]
 - [YoungHom](https://younghomseminar.github.io){:target="_blank"}
 - [JMRA](https://sites.google.com/view/jmra/home){:target="_blank"}
 
+
 ### Expositions
 
 - [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/){:target="_blank"}
@@ -122,3 +124,4 @@ tags: [favorites]
 - [Entagma](https://entagma.com){:target="_blank"}
 - [Start Learning Magic](https://www.startlearningmagic.com){:target="_blank"}
 - [Analytic Philosophy Reading List for the Self Taught](https://medium.com/@stormentas2/analytic-philosophy-reading-list-for-the-self-taught-3bb5e44a6b7f){:target="_blank"}
+- [Collection of _What is..._ Column](https://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=whatis&article_type=gallery&gallery_type=whatis){:target="_blank"}
