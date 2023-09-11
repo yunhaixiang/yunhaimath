@@ -26,12 +26,11 @@ tags: [favorites]
 - [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
 - [*Step Up* (2006)](https://www.imdb.com/title/tt0462590/){:target="_blank"}
 - [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
-- [*Farewell my Concubine*]
 - [*Citizen Cane* (1941)](https://www.imdb.com/title/tt0033467/){:target="_blank"}
 - [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*The Prestige* (2006)](https://www.imdb.com/title/tt0482571/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
-- [*Invasion of the Body-Snatchers*]
+
 
 ### Documentaries
 - [*AlphaGo* (2017)](https://www.imdb.com/title/tt6700846/){:target="_blank"}
@@ -77,8 +76,6 @@ tags: [favorites]
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
-- [Gintama]
-- [Legend of the Galactic Heroes]
 - [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/)
 
 ### TV Series
@@ -88,10 +85,8 @@ tags: [favorites]
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/?ref_=adv_li_tt){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
-- [*The Legend of Bruce Lee* (2008)](https://www.imdb.com/title/tt1059455/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
 - [*The Office* (2005)](https://www.imdb.com/title/tt0386676/){:target="_blank"}
-- [*Nathan for You* (2013)](https://www.imdb.com/title/tt2297757/){:target="_blank"}
 - [*The Queen's Gambit* (2020)](https://www.imdb.com/title/tt10048342/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
