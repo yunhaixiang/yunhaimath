@@ -9,19 +9,15 @@ tags: [favorites]
 ### Video Games
 - [God of War](https://www.ign.com/games/god-of-war/){:target="_blank"}
 - [Uncharted 4: A Thief's End](https://www.ign.com/games/uncharted-4){:target="_blank"}
-- [Ghost of Tsushima](https://www.ign.com/games/ghost-of-tsushima){:target="_blank"}
 - [Sekiro: Shadow Die Twice](https://www.ign.com/games/sekiro-shadows-die-twice){:target="_blank"}
 - [Elden Ring](https://www.ign.com/games/elden-ring){:target="_blank"}
-- [Neir: Automata](https://www.ign.com/games/nier-automata){:target="_blank"}
 - [Genshin Impact](https://www.ign.com/games/genshin-impact){:target="_blank"}
 - [Minecraft](https://www.ign.com/games/minecraft){:target="_blank"}
-- [The Last of Us](https://www.ign.com/games/the-last-of-us){:target="_blank"}
 - [Besiege](https://www.ign.com/games/besiege/){:target="_blank"}
 - [Hollow Knight](https://www.ign.com/games/hollow-knight){:target="_blank"}
 - [Bloodborne](https://www.ign.com/games/bloodborne){:target="_blank"}
 - [Dark Souls 3](https://www.ign.com/games/dark-souls-iii){:target="_blank"}
 - [Celeste](https://www.ign.com/games/celeste){:target="_blank"}
-- [Subnautica](https://www.ign.com/games/subnautica){:target="_blank"}
 
 ### Board Games
 

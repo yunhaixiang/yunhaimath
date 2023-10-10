@@ -92,10 +92,11 @@ tags: [favorites]
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d){:target="_blank"}
 - [Blender](https://www.blender.org){:target="_blank"}
 - [Unreal Engine](https://www.unrealengine.com/en-US){:target="_blank"}
-- [Unity](https://unity.com){:target="_blank"}
 - [Godot](https://godotengine.org){:target="_blank"}
-
-
+- [Adobe Express](https://www.adobe.com/express/){:target="_blank"}
+- [Desmos](https://www.desmos.com){:target="_blank"}
+- [GeoGebra](https://www.geogebra.org){:target="_blank"}
+- [MathCha](https://www.mathcha.io){:target="_blank"}
 
 ### News and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}

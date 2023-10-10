@@ -15,9 +15,7 @@ tags: [favorites]
 - [*WALL·E* (2008)](https://www.imdb.com/title/tt0910970/){:target="_blank"}
 - [*Tokyo Godfathers* (2003)](https://www.imdb.com/title/tt0388473/){:target="_blank"}
 - [*Paprika* (2006)](https://www.imdb.com/title/tt0851578/){:target="_blank"}
-- [*Borat* (2006)](https://www.imdb.com/title/tt0443453/){:target="_blank"}
 - [*The Imitation Game* (2014)](https://www.imdb.com/title/tt2084970/){:target="_blank"}
-- [*Detachment* (2011)](https://www.imdb.com/title/tt1683526/){:target="_blank"}
 - [*Theory of Everything* (2014)](https://www.imdb.com/title/tt2980516/){:target="_blank"}
 - [*Ip Man* (2008)](https://www.imdb.com/title/tt1220719/){:target="_blank"}
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
@@ -30,7 +28,6 @@ tags: [favorites]
 - [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*The Prestige* (2006)](https://www.imdb.com/title/tt0482571/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
-
 
 ### Documentaries
 - [*AlphaGo* (2017)](https://www.imdb.com/title/tt6700846/){:target="_blank"}
