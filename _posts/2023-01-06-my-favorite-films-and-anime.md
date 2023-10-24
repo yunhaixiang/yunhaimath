@@ -67,7 +67,7 @@ tags: [favorites]
 - [*Lycoris Recoil* (2022)](https://www.imdb.com/title/tt16755706/){:target="_blank"}
 - [*My Dress-Up Darling* (2022)](https://www.imdb.com/title/tt15765670/){:target="_blank"}
 - [*Hinamatsuri* (2018)](https://www.imdb.com/title/tt8253044/){:target="_blank"}
-- [*Tsundere Children* (2017)](https://www.imdb.com/title/tt7155052/){:target="_blank"}
+- [*Tsuredure Children* (2017)](https://www.imdb.com/title/tt7155052/){:target="_blank"}
 - [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
 - [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}

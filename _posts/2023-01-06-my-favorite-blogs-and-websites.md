@@ -55,6 +55,7 @@ tags: [favorites]
 - [Mathonline](http://mathonline.wikidot.com){:target="_blank"}
 - [Digital Mathematics Archive](http://sunsite.ubc.ca/DigitalMathArchive/){:target="_blank"}
 - [Banana Space](https://www.bananaspace.org/){:target="_blank"}
+- [MathPickle](https://mathpickle.com){:target="_blank"}
 - [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru){:target="_blank"}
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html){:target="_blank"}
 - [Classical Archives](https://www.classicalarchives.com/newca/#!/){:target="_blank"}
@@ -97,6 +98,7 @@ tags: [favorites]
 - [Desmos](https://www.desmos.com){:target="_blank"}
 - [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
+- [MakeMyGame](https://www.makemygame.com){:target="_blank"}
 
 ### News and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
