@@ -43,6 +43,7 @@ tags: [favorites]
 - [Connected Papers](https://www.connectedpapers.com){:target="_blank"}
 - [ScienceDirect](https://www.sciencedirect.com){:target="_blank"}
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/){:target="_blank"}
+- [OA.mg](https://oa.mg){:target="_blank"}
 - [PhilPapers](https://philpapers.org){:target="_blank"}
 - [The L-functions and Modular Forms Database](https://www.lmfdb.org){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
@@ -66,7 +67,6 @@ tags: [favorites]
 - [IGN](https://www.ign.com/ca){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
-
 
 ### Tools and Softwares
 - [Overleaf](https://www.overleaf.com){:target="_blank"}
