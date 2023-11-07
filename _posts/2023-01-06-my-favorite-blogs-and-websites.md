@@ -41,6 +41,7 @@ tags: [favorites]
 - [arxiv](https://arxiv.org){:target="_blank"}
 - [zbMATH Open](https://zbmath.org){:target="_blank"}
 - [Connected Papers](https://www.connectedpapers.com){:target="_blank"}
+- [Litmaps](https://app.litmaps.co){:target="_blank"}
 - [ScienceDirect](https://www.sciencedirect.com){:target="_blank"}
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/){:target="_blank"}
 - [OA.mg](https://oa.mg){:target="_blank"}
