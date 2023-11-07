@@ -29,6 +29,7 @@ tags: [favorites]
 - [Gabe Khan's Blog](https://differentialgeometri.wordpress.com){:target="_blank"}
 - [Fred Akalin's Blog](https://www.akalin.com){:target="_blank"}
 - [The Alien Number](https://aliennumbers.wordpress.com){:target="_blank"}
+- [Roice Nelson's Blog](http://www.roice3.org/)
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
@@ -123,6 +124,7 @@ tags: [favorites]
 - [Numberphile](https://www.numberphile.com){:target="_blank"}
 - [3Blue1Brown](https://www.3blue1brown.com){:target="_blank"}
 - [The TeXromancers](https://aareyanmanzoor.github.io/Texromancers.html){:target="_blank"}
+- [Brilliant](https://brilliant.org){:target="_blank"}
 - [Scratchapixel](https://www.scratchapixel.com){:target="_blank"}
 - [Entagma](https://entagma.com){:target="_blank"}
 - [Start Learning Magic](https://www.startlearningmagic.com){:target="_blank"}
