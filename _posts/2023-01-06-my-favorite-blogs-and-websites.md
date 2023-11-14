@@ -29,7 +29,7 @@ tags: [favorites]
 - [Gabe Khan's Blog](https://differentialgeometri.wordpress.com){:target="_blank"}
 - [Fred Akalin's Blog](https://www.akalin.com){:target="_blank"}
 - [The Alien Number](https://aliennumbers.wordpress.com){:target="_blank"}
-- [Roice Nelson's Blog](http://www.roice3.org/)
+- [Roice Nelson's Blog](http://www.roice3.org/){:target="_blank"}
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
