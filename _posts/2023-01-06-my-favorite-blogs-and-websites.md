@@ -69,6 +69,7 @@ tags: [favorites]
 - [IGN](https://www.ign.com/ca){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
+- [Lingolia](https://www.lingolia.com/en/){:target="_blank"}
 
 ### Tools and Softwares
 - [Overleaf](https://www.overleaf.com){:target="_blank"}
@@ -103,7 +104,7 @@ tags: [favorites]
 - [MathCha](https://www.mathcha.io){:target="_blank"}
 - [MakeMyGame](https://www.makemygame.com){:target="_blank"}
 
-### News and Socials
+### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
 - [Mathematics Stack Exchange](https://math.stackexchange.com){:target="_blank"}
 - [Thuses](https://thuses.com/){:target="_blank"}
@@ -117,10 +118,6 @@ tags: [favorites]
 - [MathMeetings](https://mathmeetings.net){:target="_blank"}
 - [YoungHom](https://younghomseminar.github.io){:target="_blank"}
 - [JMRA](https://sites.google.com/view/jmra/home){:target="_blank"}
-
-
-### Expositions
-
 - [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/){:target="_blank"}
 - [Nicky's Shtuffs](https://ncase.me){:target="_blank"}
 - [Numberphile](https://www.numberphile.com){:target="_blank"}

@@ -24,7 +24,6 @@ tags: [favorites]
 - [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
 - [*Step Up* (2006)](https://www.imdb.com/title/tt0462590/){:target="_blank"}
 - [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
-- [*Citizen Cane* (1941)](https://www.imdb.com/title/tt0033467/){:target="_blank"}
 - [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*The Prestige* (2006)](https://www.imdb.com/title/tt0482571/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
@@ -49,7 +48,6 @@ tags: [favorites]
 - [*Asobi Asobase* (2018)](https://www.imdb.com/title/tt8515062/){:target="_blank"}
 - [*Your Lie in April* (2014)](https://www.imdb.com/title/tt3895150/){:target="_blank"}
 - [*Cowboy Bebop* (1998)](https://www.imdb.com/title/tt0213338/?ref_=nv_sr_srsg_0){:target="_blank"}
-- [*Ping Pong the Animation* (2014)](https://www.imdb.com/title/tt3592032/?ref_=nv_sr_srsg_2){:target="_blank"}
 - [*Hikaru no Go* (2001)](https://www.imdb.com/title/tt0426711/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Parasyte: The Maxim* (2014)](https://www.imdb.com/title/tt3358020/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Great Pretender* (2020)](https://www.imdb.com/title/tt11680468/?ref_=nv_sr_srsg_0){:target="_blank"}
@@ -73,7 +71,8 @@ tags: [favorites]
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
-- [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/)
+- [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
+- [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
 
 ### TV Series
 

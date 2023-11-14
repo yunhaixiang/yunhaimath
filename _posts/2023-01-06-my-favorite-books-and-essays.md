@@ -25,6 +25,7 @@ tags: [favorites]
 - Alexander Grothendieck, [*Récoltes et Semailles* (1986)](https://www.goodreads.com/book/show/16083033-r-coltes-et-semailles){:target="_blank"}
 - Alan Sokal, Jean Bricmont, [*Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science* (1997)](https://www.goodreads.com/book/show/130479.Fashionable_Nonsense){:target="_blank"}
 - Duncan Pritchard, [*What is this Thing Called Knowledge?* (2006)](https://www.goodreads.com/book/show/17585522-what-is-this-thing-called-knowledge){:target="_blank"}
+- Morris Kline, [*Mathematics: The Loss of Certainty* (1980)](https://www.goodreads.com/book/show/748807){:target="_blank"}
 
 ### Essays
 
