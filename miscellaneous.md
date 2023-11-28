@@ -14,18 +14,5 @@ permalink: /miscellaneous
 
 ### Media
 - Pictures of me 
-- Pictures of me with famous people
 - Pictures of me with friends and family
 - Videos of me doing magic tricks
-
-
-
-
-
-<!-- >
-<details>
-  <summary style="cursor:pointer;">My favorite video games</summary>
-
-
-</details>
--->
