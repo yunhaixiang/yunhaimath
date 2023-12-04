@@ -103,6 +103,8 @@ tags: [favorites]
 - [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
 - [MakeMyGame](https://www.makemygame.com){:target="_blank"}
+- [TeXnique](https://texnique.xyz){:target="_blank"}
+- [MonkeyType](https://monkeytype.com){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}

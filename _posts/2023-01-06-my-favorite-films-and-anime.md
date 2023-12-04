@@ -22,7 +22,6 @@ tags: [favorites]
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Let the Bullets Fly* (2010)](https://www.imdb.com/title/tt1533117/){:target="_blank"}
 - [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
-- [*Step Up* (2006)](https://www.imdb.com/title/tt0462590/){:target="_blank"}
 - [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
 - [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*The Prestige* (2006)](https://www.imdb.com/title/tt0482571/){:target="_blank"}
@@ -40,9 +39,10 @@ tags: [favorites]
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
 - [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
 - [*Wittgenstein: A Wonderful Life* (1989)](https://www.imdb.com/title/tt1119638/){:target="_blank"}
+- [*Manufacturing Consent: Noam Chomsky and the Media* (1992)](https://www.imdb.com/title/tt0104810/){:target="_blank"}
 
 ### Anime
-- [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_srsg_0){:target="_blank"}
+- [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/){:target="_blank"}
 - [*Code Geass* (2006)](https://www.imdb.com/title/tt0994314/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Megalo Box* (2018)](https://www.imdb.com/title/tt7965802/){:target="_blank"}
 - [*Asobi Asobase* (2018)](https://www.imdb.com/title/tt8515062/){:target="_blank"}
@@ -51,7 +51,6 @@ tags: [favorites]
 - [*Hikaru no Go* (2001)](https://www.imdb.com/title/tt0426711/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Parasyte: The Maxim* (2014)](https://www.imdb.com/title/tt3358020/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Great Pretender* (2020)](https://www.imdb.com/title/tt11680468/?ref_=nv_sr_srsg_0){:target="_blank"}
-- [*Yuri!!! On Ice* (2016)](https://www.imdb.com/title/tt6112556/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*One Punch Man* (2015)](https://www.imdb.com/title/tt4508902/){:target="_blank"}
 - [*Silver Spoon* (2013)](https://www.imdb.com/title/tt2909912/){:target="_blank"}
 - [*Tanaka-kun is Always Listless* (2016)](https://www.imdb.com/title/tt5531604/){:target="_blank"}
@@ -60,19 +59,16 @@ tags: [favorites]
 - [*Hyouka* (2012)](https://www.imdb.com/title/tt2340841/){:target="_blank"}
 - [*Love, Chunibyo & Other Delusions* (2012)](https://www.imdb.com/title/tt2321542/){:target="_blank"}
 - [*Spy x Family* (2022)](https://www.imdb.com/title/tt13706018/){:target="_blank"}
-- [*Chainsaw Man* (2022)](https://www.imdb.com/title/tt13616990/){:target="_blank"}
-- [*Scissor Seven* (2018)](https://www.imdb.com/title/tt11503082/){:target="_blank"}
 - [*Lycoris Recoil* (2022)](https://www.imdb.com/title/tt16755706/){:target="_blank"}
-- [*My Dress-Up Darling* (2022)](https://www.imdb.com/title/tt15765670/){:target="_blank"}
-- [*Hinamatsuri* (2018)](https://www.imdb.com/title/tt8253044/){:target="_blank"}
-- [*Tsuredure Children* (2017)](https://www.imdb.com/title/tt7155052/){:target="_blank"}
 - [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
-- [*Steins Gate* (2011)](https://www.imdb.com/title/tt1910272/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
 - [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
+- [*Death Note* (2006)](https://www.imdb.com/title/tt0877057/){:target="_blank"}
+- [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
+- [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
 
 ### TV Series
 
@@ -89,3 +85,7 @@ tags: [favorites]
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
 - [*Father Ted* (1995)](https://www.imdb.com/title/tt0111958/){:target="_blank"}
+
+
+### Shorts
+- [*Dinner for Few* (2014)](https://www.imdb.com/title/tt3788934/){:target="_blank"}
