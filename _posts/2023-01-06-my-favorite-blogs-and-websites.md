@@ -46,6 +46,7 @@ tags: [favorites]
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/){:target="_blank"}
 - [OA.mg](https://oa.mg){:target="_blank"}
 - [Semantic Scholar](https://www.semanticscholar.org){:target="_blank"}
+- [Oxford Academic](https://academic.oup.com/){:target="_blank"}
 - [PhilPapers](https://philpapers.org){:target="_blank"}
 - [The L-functions and Modular Forms Database](https://www.lmfdb.org){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
@@ -62,6 +63,7 @@ tags: [favorites]
 - [MathPickle](https://mathpickle.com){:target="_blank"}
 - [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru){:target="_blank"}
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html){:target="_blank"}
+- [Internet Encyclopedia of Philosophy](https://iep.utm.edu){:target="_blank"}
 - [Classical Archives](https://www.classicalarchives.com/newca/#!/){:target="_blank"}
 - [Sensei's Library](https://senseis.xmp.net){:target="_blank"}
 - [Goodreads](https://www.goodreads.com){:target="_blank"}
@@ -69,7 +71,9 @@ tags: [favorites]
 - [IGN](https://www.ign.com/ca){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
+- [MagicPedia](https://geniimagazine.com/wiki/index.php){:target="_blank"}
 - [Lingolia](https://www.lingolia.com/en/){:target="_blank"}
+- [Important Publications of Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy#Contemporary_philosophy){:target="_blank"}
 
 ### Tools and Softwares
 - [Overleaf](https://www.overleaf.com){:target="_blank"}
@@ -105,6 +109,8 @@ tags: [favorites]
 - [MakeMyGame](https://www.makemygame.com){:target="_blank"}
 - [TeXnique](https://texnique.xyz){:target="_blank"}
 - [MonkeyType](https://monkeytype.com){:target="_blank"}
+- [NEAL.FUN](https://neal.fun){:target="_blank"}
+- [InfiniteConversation](https://www.infiniteconversation.com/)){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}

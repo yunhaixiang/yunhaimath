@@ -69,6 +69,7 @@ tags: [favorites]
 - [*Death Note* (2006)](https://www.imdb.com/title/tt0877057/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
+- [*Frieren: Beyond Journey's End* (2023)](https://www.imdb.com/title/tt22248376/){:target="_blank"}
 
 ### TV Series
 
