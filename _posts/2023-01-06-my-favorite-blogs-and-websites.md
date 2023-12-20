@@ -110,7 +110,7 @@ tags: [favorites]
 - [TeXnique](https://texnique.xyz){:target="_blank"}
 - [MonkeyType](https://monkeytype.com){:target="_blank"}
 - [NEAL.FUN](https://neal.fun){:target="_blank"}
-- [InfiniteConversation](https://www.infiniteconversation.com/)){:target="_blank"}
+- [InfiniteConversation](https://www.infiniteconversation.com/){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
