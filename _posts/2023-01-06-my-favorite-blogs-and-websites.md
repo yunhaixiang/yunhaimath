@@ -124,6 +124,7 @@ tags: [favorites]
 - [AMS Notices](https://www.ams.org/notices){:target="_blank"}
 - [Online Go](https://online-go.com){:target="_blank"}
 - [London Review of Books](https://www.lrb.co.uk){:target="_blank"}
+- [New York Review of Books](https://www.nybooks.com/){:target="_blank"}
 - [One Ahead](https://www.oneahead.com){:target="_blank"}
 - [MathMeetings](https://mathmeetings.net){:target="_blank"}
 - [YoungHom](https://younghomseminar.github.io){:target="_blank"}

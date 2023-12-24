@@ -18,6 +18,8 @@ tags: [favorites]
 - [Bloodborne](https://www.ign.com/games/bloodborne){:target="_blank"}
 - [Dark Souls 3](https://www.ign.com/games/dark-souls-iii){:target="_blank"}
 - [Celeste](https://www.ign.com/games/celeste){:target="_blank"}
+- [Disco Elysium](https://www.ign.com/games/disco-elysium-the-final-cut){:target="_blank"}
+
 
 ### Board Games
 

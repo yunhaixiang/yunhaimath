@@ -69,23 +69,19 @@ tags: [favorites]
 - [*Death Note* (2006)](https://www.imdb.com/title/tt0877057/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
-- [*Frieren: Beyond Journey's End* (2023)](https://www.imdb.com/title/tt22248376/){:target="_blank"}
 
 ### TV Series
 
-- [*Mr. Bean* (1990)](https://www.imdb.com/title/tt4508902/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/?ref_=adv_li_tt){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
-- [*The Office* (2005)](https://www.imdb.com/title/tt0386676/){:target="_blank"}
 - [*The Queen's Gambit* (2020)](https://www.imdb.com/title/tt10048342/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
-- [*Father Ted* (1995)](https://www.imdb.com/title/tt0111958/){:target="_blank"}
 
 
 ### Shorts
