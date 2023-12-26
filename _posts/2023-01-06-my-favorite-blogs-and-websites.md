@@ -30,6 +30,9 @@ tags: [favorites]
 - [Fred Akalin's Blog](https://www.akalin.com){:target="_blank"}
 - [The Alien Number](https://aliennumbers.wordpress.com){:target="_blank"}
 - [Roice Nelson's Blog](http://www.roice3.org/){:target="_blank"}
+- [Hard Arithmetic](https://ayoucis.wordpress.com/){:target="_blank"}
+- [Theories and Theorems](https://ahilado.wordpress.com/){:target="_blank"}
+- [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/){:target="_blank"}
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
@@ -124,7 +127,7 @@ tags: [favorites]
 - [AMS Notices](https://www.ams.org/notices){:target="_blank"}
 - [Online Go](https://online-go.com){:target="_blank"}
 - [London Review of Books](https://www.lrb.co.uk){:target="_blank"}
-- [New York Review of Books](https://www.nybooks.com/){:target="_blank"}
+- [New York Review of Books](https://www.nybooks.com/)
 - [One Ahead](https://www.oneahead.com){:target="_blank"}
 - [MathMeetings](https://mathmeetings.net){:target="_blank"}
 - [YoungHom](https://younghomseminar.github.io){:target="_blank"}
