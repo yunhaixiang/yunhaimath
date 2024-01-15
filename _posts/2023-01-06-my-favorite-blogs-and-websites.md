@@ -120,6 +120,8 @@ tags: [favorites]
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
 - [Mathematics Stack Exchange](https://math.stackexchange.com){:target="_blank"}
+- [Physics Stack Exchange](https://physics.stackexchange.com/){:target="_blank"}
+- [Philosophy Stack Exchange](https://philosophy.stackexchange.com/){:target="_blank"}
 - [Thuses](https://thuses.com/){:target="_blank"}
 - [Research Seminars](https://researchseminars.org){:target="_blank"}
 - [Quanta Magazine](https://www.quantamagazine.org){:target="_blank"}
