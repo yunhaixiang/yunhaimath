@@ -33,6 +33,8 @@ tags: [favorites]
 - [Hard Arithmetic](https://ayoucis.wordpress.com/){:target="_blank"}
 - [Theories and Theorems](https://ahilado.wordpress.com/){:target="_blank"}
 - [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/){:target="_blank"}
+- [Greg Egan's Website](https://www.gregegan.net/){:target="_blank"}
+
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
@@ -121,6 +123,9 @@ tags: [favorites]
 - [Thuses](https://thuses.com/){:target="_blank"}
 - [Research Seminars](https://researchseminars.org){:target="_blank"}
 - [Quanta Magazine](https://www.quantamagazine.org){:target="_blank"}
+- [Areo Magazine](https://areomagazine.com/){:target="_blank"}
+- [Nautilus](https://nautil.us/){:target="_blank"}
+- [Big Think](https://bigthink.com/){:target="_blank"}
 - [Mathsodon](https://mathstodon.xyz/about){:target="_blank"}
 - [BookWyrm](https://bookwyrm.social){:target="_blank"}
 - [AMS Bulletin](https://www.ams.org/publications/journals/journalsframework/aboutbull){:target="_blank"}
