@@ -95,6 +95,8 @@ tags: [favorites]
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
+- [LeanProver](https://leanprover-community.github.io/){:target="_blank"}
+- [SageMath](https://www.sagemath.org/){:target="_blank"}
 - [Mathgen](https://thatsmathematics.com/mathgen/){:target="_blank"}
 - [The Springer GTM Test](https://math.jhu.edu/~savitt/GTM.html){:target="_blank"}
 - [Linggle](https://linggle.com){:target="_blank"}
