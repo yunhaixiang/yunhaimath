@@ -55,6 +55,7 @@ tags: [favorites]
 - [PhilPapers](https://philpapers.org){:target="_blank"}
 - [The L-functions and Modular Forms Database](https://www.lmfdb.org){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
+- [Cut the Knot](https://www.cut-the-knot.org/){:target="_blank"}
 - [Planet Math](https://planetmath.org){:target="_blank"}
 - [Mathematics Genealogy Project](https://www.mathgenealogy.org/index.php){:target="_blank"}
 - [Numdam](http://www.numdam.org/?lang=en){:target="_blank"}
