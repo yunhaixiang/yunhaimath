@@ -54,6 +54,11 @@ tags: [favorites]
 - [Oxford Academic](https://academic.oup.com/){:target="_blank"}
 - [PhilPapers](https://philpapers.org){:target="_blank"}
 - [The L-functions and Modular Forms Database](https://www.lmfdb.org){:target="_blank"}
+- [Fanography](https://www.fanography.info/){:target="_blank"}
+- [Grassmannian](https://www.grassmannian.info/){:target="_blank"}
+- [Hyperkaehler](https://www.hyperkaehler.info/){:target="_blank"}
+- [Mgnbar](https://mgnbar.info/){:target="_blank"}
+- [Superficie](https://superficie.info/){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
 - [Cut the Knot](https://www.cut-the-knot.org/){:target="_blank"}
 - [Planet Math](https://planetmath.org){:target="_blank"}
