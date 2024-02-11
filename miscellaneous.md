@@ -10,6 +10,5 @@ permalink: /miscellaneous
 - [Films and Games](blog/films-and-games)
 - [Classical Music Pieces](blog/classical-music-pieces)
 
-
 ### Media
 - Magic Tricks

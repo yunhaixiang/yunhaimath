@@ -28,7 +28,6 @@ tags: [favorites]
 - Morris Kline, [*Mathematics: The Loss of Certainty* (1980)](https://www.goodreads.com/book/show/748807){:target="_blank"}
 
 ### Essays
-
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
 - Yuri Manin, _Mathematics as a Metaphor_ (2007)
 - G. H. Hardy, _A Mathematician's Apology_ (1940)
