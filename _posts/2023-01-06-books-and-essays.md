@@ -35,3 +35,4 @@ tags: [favorites]
 - H. A. Rowland, _A Plea for Pure Sciences_ (1883)
 - W. V. O. Quine, _Two Dogmas of Empiracism_ (1951)
 - Saul Kripke, _Naming and Necessity_ (1980)
+- Eugenia Cheng, _Mathematics, Morally_ (2004)
