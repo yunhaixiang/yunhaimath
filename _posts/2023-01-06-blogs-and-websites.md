@@ -1,12 +1,12 @@
 ---
 layout: post
-title: My Favorite Blogs and Websites
+title: Blogs and Websites
 date: 2023-01-06 00:00:00 +0000
 tags: [favorites]
 
 ---
 
-### Blogs
+### Blogs and Expositions
 - [The n-Category Café](https://golem.ph.utexas.edu/category/){:target="_blank"}
 - [What's New](https://terrytao.wordpress.com){:target="_blank"}
 - [Neverending Books](http://www.neverendingbooks.org){:target="_blank"}
@@ -34,7 +34,11 @@ tags: [favorites]
 - [Theories and Theorems](https://ahilado.wordpress.com/){:target="_blank"}
 - [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/){:target="_blank"}
 - [Greg Egan's Website](https://www.gregegan.net/){:target="_blank"}
-
+- [Collection of _What is..._ Column](https://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=whatis&article_type=gallery&gallery_type=whatis){:target="_blank"}
+- [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/){:target="_blank"}
+- [Analytic Philosophy Reading List for the Self Taught](https://medium.com/@stormentas2/analytic-philosophy-reading-list-for-the-self-taught-3bb5e44a6b7f){:target="_blank"}
+- [Scratchapixel](https://www.scratchapixel.com){:target="_blank"}
+- [The TeXromancers](https://aareyanmanzoor.github.io/Texromancers.html){:target="_blank"}
 
 ### Wikis and Archives
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
@@ -85,7 +89,6 @@ tags: [favorites]
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
 - [MagicPedia](https://geniimagazine.com/wiki/index.php){:target="_blank"}
 - [Lingolia](https://www.lingolia.com/en/){:target="_blank"}
-- [Important Publications of Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy#Contemporary_philosophy){:target="_blank"}
 
 ### Tools and Softwares
 - [Overleaf](https://www.overleaf.com){:target="_blank"}
@@ -120,11 +123,7 @@ tags: [favorites]
 - [Desmos](https://www.desmos.com){:target="_blank"}
 - [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
-- [MakeMyGame](https://www.makemygame.com){:target="_blank"}
 - [TeXnique](https://texnique.xyz){:target="_blank"}
-- [MonkeyType](https://monkeytype.com){:target="_blank"}
-- [NEAL.FUN](https://neal.fun){:target="_blank"}
-- [InfiniteConversation](https://www.infiniteconversation.com/){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
@@ -149,14 +148,6 @@ tags: [favorites]
 - [MathMeetings](https://mathmeetings.net){:target="_blank"}
 - [YoungHom](https://younghomseminar.github.io){:target="_blank"}
 - [JMRA](https://sites.google.com/view/jmra/home){:target="_blank"}
-- [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/){:target="_blank"}
-- [Nicky's Shtuffs](https://ncase.me){:target="_blank"}
 - [Numberphile](https://www.numberphile.com){:target="_blank"}
 - [3Blue1Brown](https://www.3blue1brown.com){:target="_blank"}
-- [The TeXromancers](https://aareyanmanzoor.github.io/Texromancers.html){:target="_blank"}
 - [Brilliant](https://brilliant.org){:target="_blank"}
-- [Scratchapixel](https://www.scratchapixel.com){:target="_blank"}
-- [Entagma](https://entagma.com){:target="_blank"}
-- [Start Learning Magic](https://www.startlearningmagic.com){:target="_blank"}
-- [Analytic Philosophy Reading List for the Self Taught](https://medium.com/@stormentas2/analytic-philosophy-reading-list-for-the-self-taught-3bb5e44a6b7f){:target="_blank"}
-- [Collection of _What is..._ Column](https://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=whatis&article_type=gallery&gallery_type=whatis){:target="_blank"}

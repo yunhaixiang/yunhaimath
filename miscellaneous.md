@@ -5,12 +5,11 @@ permalink: /miscellaneous
 ---
 
 ### Favorites
-- [My favorite blogs and websites](blog/my-favorite-blogs-and-websites)
-- [My favorite books and essays](blog/my-favorite-books-and-essays)
-- [My favorite films and anime](blog/my-favorite-films-and-anime)
-- [My favorite classical music pieces](blog/my-favorite-classical-music-pieces)
-- [My favorite video games and board games](blog/my-favorite-video-games-and-board-games)
+- [Blogs and Websites](blog/blogs-and-websites)
+- [Books and Essays](blog/books-and-essays)
+- [Films and Games](blog/films-and-games)
+- [Classical Music Pieces](blog/classical-music-pieces)
 
 
 ### Media
-- Videos of me doing magic tricks
+- Magic Tricks

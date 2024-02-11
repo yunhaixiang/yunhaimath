@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favorite Classical Music Pieces
+title: Classical Music Pieces
 date: 2023-01-06 00:00:00 +0000
 tags: [favorites]
 

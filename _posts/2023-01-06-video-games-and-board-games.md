@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favorite Video Games and Board Games
+title: Video Games and Board Games
 date: 2023-01-06 00:00:00 +0000
 tags: [favorites]
 
