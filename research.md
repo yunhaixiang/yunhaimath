@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests primarily, but by no means exclusively, lie in algebraic geometry and arithmetic geometry, and especially in topics of a homological or homotopical flavor. Some topics I'm interested in are: motivic cohomology, motivic homotopy theory, algebraic K-theory, algebraic cycles, algebraic stacks, and p-adic geometry. <!--- I am also somewhat interested in type theory and the foundations of mathematics (including philosophical aspects). -->
+My research interests primarily, but by no means exclusively, lie in algebraic geometry and arithmetic geometry, and especially in topics of a homological or homotopical flavor. Some topics I'm interested in are: motivic cohomology, motivic homotopy theory, algebraic K-theory, algebraic cycles, algebraic stacks, derived categories, and p-adic geometry. 
 
 
 
