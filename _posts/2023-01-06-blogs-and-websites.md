@@ -102,6 +102,7 @@ tags: [favorites]
 - [Gerby](https://gerby-project.github.io){:target="_blank"}
 - [PubPub](https://www.pubpub.org/){:target="_blank"}
 - [PreTeXt](https://pretextbook.org/){:target="_blank"}
+- [Quarto](https://quarto.org/){:target="_blank"}
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
@@ -124,6 +125,9 @@ tags: [favorites]
 - [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
 - [TeXnique](https://texnique.xyz){:target="_blank"}
+- [Hexo](https://hexo.io/index.html){:target="_blank"}
+- [Jekyll](https://jekyllrb.com/){:target="_blank"}
+- [Hugo](https://gohugo.io/){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
