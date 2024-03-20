@@ -60,7 +60,6 @@ tags: [favorites]
 - [*Love, Chunibyo & Other Delusions* (2012)](https://www.imdb.com/title/tt2321542/){:target="_blank"}
 - [*Spy x Family* (2022)](https://www.imdb.com/title/tt13706018/){:target="_blank"}
 - [*Lycoris Recoil* (2022)](https://www.imdb.com/title/tt16755706/){:target="_blank"}
-- [*Sakura Trick* (2014)](https://www.imdb.com/title/tt3198956/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
@@ -82,7 +81,7 @@ tags: [favorites]
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
-
+- [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
 
 ### Shorts
 - [*Dinner for Few* (2014)](https://www.imdb.com/title/tt3788934/){:target="_blank"}
