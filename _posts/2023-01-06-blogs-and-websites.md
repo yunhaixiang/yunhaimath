@@ -105,6 +105,7 @@ tags: [favorites]
 - [Quarto](https://quarto.org/){:target="_blank"}
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
+- [Notability](https://notability.com/){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
 - [LeanProver](https://leanprover-community.github.io/){:target="_blank"}
 - [SageMath](https://www.sagemath.org/){:target="_blank"}
