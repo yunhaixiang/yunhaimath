@@ -144,6 +144,7 @@ tags: [favorites]
 - [Mathsodon](https://mathstodon.xyz/about){:target="_blank"}
 - [BookWyrm](https://bookwyrm.social){:target="_blank"}
 - [Locus](https://locusmag.com/){:target="_blank"}
+- [Art of Problem Solving](https://artofproblemsolving.com/){:target="_blank"}
 - [AMS Bulletin](https://www.ams.org/publications/journals/journalsframework/aboutbull){:target="_blank"}
 - [AMS Notices](https://www.ams.org/notices){:target="_blank"}
 - [Online Go](https://online-go.com){:target="_blank"}
