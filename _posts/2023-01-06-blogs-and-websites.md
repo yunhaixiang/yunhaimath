@@ -48,6 +48,7 @@ tags: [favorites]
 - [Stacks Project](https://stacks.math.columbia.edu){:target="_blank"}
 - [Kerodon](https://kerodon.net){:target="_blank"}
 - [Clowder Project](https://clowderproject.com/index.html){:target="_blank"}
+- [Automorphic Project](https://automorphic.jh.edu/){:target="_blank"}
 - [arxiv](https://arxiv.org){:target="_blank"}
 - [zbMATH Open](https://zbmath.org){:target="_blank"}
 - [Connected Papers](https://www.connectedpapers.com){:target="_blank"}
