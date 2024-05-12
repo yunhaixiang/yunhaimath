@@ -87,6 +87,7 @@ tags: [favorites]
 - [Goodreads](https://www.goodreads.com){:target="_blank"}
 - [IMDb](https://www.imdb.com/){:target="_blank"}
 - [IGN](https://www.ign.com/ca){:target="_blank"}
+- [MUBI](https://mubi.com/en/ca){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
 - [MagicPedia](https://geniimagazine.com/wiki/index.php){:target="_blank"}
@@ -107,6 +108,7 @@ tags: [favorites]
 - [Quarto](https://quarto.org/){:target="_blank"}
 - [Notion](https://www.notion.so/){:target="_blank"}
 - [GoodNotes](https://www.goodnotes.com){:target="_blank"}
+- [12ft](https://12ft.io/){:target="_blank"}
 - [Notability](https://notability.com/){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
 - [LeanProver](https://leanprover-community.github.io/){:target="_blank"}
