@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-Hello! My name is Yunhai Xiang (in Chinese: 项云海, pronounced as “yee-o-en-hi si-ang”), he/him, and I also go by Daniel. I'm a graduate student in pure mathematics at Western University. I can be reached by [email](mailto:yxiang72@uwo.ca). I have a math blog called [_The Singularity_](https://thesingularity.me){:target="_blank"}.
+My name is Yunhai Xiang (in Chinese: 项云海, pronounced “yee-o-en-hi si-ang”), he/him, and I also go by Daniel. I'm a graduate student in pure mathematics at Western University. I can be reached by [email](mailto:yxiang72@uwo.ca). I have a math blog called [_The Singularity_](https://thesingularity.me){:target="_blank"}.
 
 Outside math, I'm very curious, but not very knowledgable, about (analytic) philosophy. I also dabble in close-up magic, which is a hobby I've had since I was very young. In my free time, I enjoy reading, music, anime, films, video games, and strategy games. See more in [Miscellaneous](/miscellaneous).
 
