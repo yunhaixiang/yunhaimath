@@ -142,7 +142,6 @@ tags: [favorites]
 - [Thuses](https://thuses.com/){:target="_blank"}
 - [Research Seminars](https://researchseminars.org){:target="_blank"}
 - [Quanta Magazine](https://www.quantamagazine.org){:target="_blank"}
-- [Areo Magazine](https://areomagazine.com/){:target="_blank"}
 - [Nautilus](https://nautil.us/){:target="_blank"}
 - [Big Think](https://bigthink.com/){:target="_blank"}
 - [Mathsodon](https://mathstodon.xyz/about){:target="_blank"}
