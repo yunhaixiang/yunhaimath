@@ -8,7 +8,7 @@ My name is Yunhai Xiang (in Chinese: 项云海, pronounced “yee-o-en-hi si-ang
 
 This term I am organizing the Toric and Log Geometry Seminar at Western with Nicolas Rieke. 
 
-Outside math, I'm curious, but not very knowledgeable, about analytic philosophy. I also dabble in close-up magic, which is a hobby I've had since I was very young. In my free time, I enjoy reading, music, anime, films, and video games.
+Outside math, I'm curious, but not very knowledgeable, about analytic philosophy. I also dabble in close-up magic, which is a hobby I've had since I was very young. In my free time, I enjoy reading, music, anime, films, video games, and the game of [Go](https://en.wikipedia.org/wiki/Go_(game)){:target="_blank"}. 
 
 
 
