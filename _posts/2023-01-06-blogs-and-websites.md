@@ -60,6 +60,7 @@ tags: [favorites]
 - [Oxford Academic](https://academic.oup.com/){:target="_blank"}
 - [PhilPapers](https://philpapers.org){:target="_blank"}
 - [The L-functions and Modular Forms Database](https://www.lmfdb.org){:target="_blank"}
+- [VideoArxiv](http://videoarxiv.org/){:target="_blank"}
 - [Fanography](https://www.fanography.info/){:target="_blank"}
 - [Grassmannian](https://www.grassmannian.info/){:target="_blank"}
 - [Hyperkaehler](https://www.hyperkaehler.info/){:target="_blank"}
