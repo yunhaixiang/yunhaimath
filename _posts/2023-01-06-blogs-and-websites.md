@@ -99,7 +99,6 @@ tags: [favorites]
 - [ShareLaTeX](https://www.sharelatex.com){:target="_blank"}
 - [CoCalc](https://cocalc.com){:target="_blank"}
 - [WolframAlpha](https://www.wolframalpha.com){:target="_blank"}
-- [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage){:target="_blank"}
 - [Mathpix](https://mathpix.com){:target="_blank"}
 - [Typst](https://typst.app/){:target="_blank"}
 - [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html){:target="_blank"}
@@ -113,6 +112,7 @@ tags: [favorites]
 - [12ft](https://12ft.io/){:target="_blank"}
 - [Notability](https://notability.com/){:target="_blank"}
 - [Jupyter](https://jupyter.org){:target="_blank"}
+- [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage){:target="_blank"}
 - [LeanProver](https://leanprover-community.github.io/){:target="_blank"}
 - [SageMath](https://www.sagemath.org/){:target="_blank"}
 - [OSCAR](https://www.oscar-system.org/){:target="_blank"}
