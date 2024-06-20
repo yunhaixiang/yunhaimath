@@ -99,6 +99,7 @@ tags: [favorites]
 - [ShareLaTeX](https://www.sharelatex.com){:target="_blank"}
 - [CoCalc](https://cocalc.com){:target="_blank"}
 - [WolframAlpha](https://www.wolframalpha.com){:target="_blank"}
+- [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage){:target="_blank"}
 - [Mathpix](https://mathpix.com){:target="_blank"}
 - [Typst](https://typst.app/){:target="_blank"}
 - [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html){:target="_blank"}
@@ -114,6 +115,14 @@ tags: [favorites]
 - [Jupyter](https://jupyter.org){:target="_blank"}
 - [LeanProver](https://leanprover-community.github.io/){:target="_blank"}
 - [SageMath](https://www.sagemath.org/){:target="_blank"}
+- [OSCAR](https://www.oscar-system.org/){:target="_blank"}
+- [CoCoA](https://cocoa.dima.unige.it/cocoa/){:target="_blank"}
+- [Macaulay2](https://www.macaulay2.com/){:target="_blank"}
+- [Magma](http://magma.maths.usyd.edu.au/magma/){:target="_blank"}
+- [Wolfram Mathematica](https://www.wolfram.com/mathematica/){:target="_blank"}
+- [Maple](https://www.maplesoft.com/products/Maple/){:target="_blank"}
+- [Desmos](https://www.desmos.com){:target="_blank"}
+- [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [Mathgen](https://thatsmathematics.com/mathgen/){:target="_blank"}
 - [The Springer GTM Test](https://math.jhu.edu/~savitt/GTM.html){:target="_blank"}
 - [Linggle](https://linggle.com){:target="_blank"}
@@ -127,8 +136,6 @@ tags: [favorites]
 - [Unreal Engine](https://www.unrealengine.com/en-US){:target="_blank"}
 - [Godot](https://godotengine.org){:target="_blank"}
 - [Adobe Express](https://www.adobe.com/express/){:target="_blank"}
-- [Desmos](https://www.desmos.com){:target="_blank"}
-- [GeoGebra](https://www.geogebra.org){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
 - [TeXnique](https://texnique.xyz){:target="_blank"}
 - [Hexo](https://hexo.io/index.html){:target="_blank"}
@@ -161,3 +168,4 @@ tags: [favorites]
 - [Numberphile](https://www.numberphile.com){:target="_blank"}
 - [3Blue1Brown](https://www.3blue1brown.com){:target="_blank"}
 - [Brilliant](https://brilliant.org){:target="_blank"}
+- [MathDash](https://mathdash.live/){:target="_blank"}

@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in algebraic geometry and arithmetic geometry, and I'm especially interested in topics of a cohomological flavor. Some topics I'm curious about are: motivic cohomology, motivic homotopy theory, Brauer groups, algebraic cycles, derived categories,  geometric ramification theory.
+My interests mainly lie in algebraic geometry and arithmetic geometry, and I'm especially interested in topics of a cohomological flavor. Some topics I'm curious about are: motivic cohomology, motivic homotopy theory, Brauer groups, algebraic cycles, derived categories, geometric ramification theory.
 
 ### Publications
 - **This is the title of your paper**  
