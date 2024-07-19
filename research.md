@@ -4,7 +4,12 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in arithmetic algebraic geometry, and I'm especially interested in topics of a cohomological flavor. Some topics I'm curious about are: motivic cohomology, refined enumerative geometry, Brauer groups, geometric ramification theory, higher class field theory. Outside my main interests, I have secondary interests in various topics in algebra. 
+My interests mainly lie in arithmetic algebraic geometry and algebra. Topics I'm interested in include
+
+- \\(\mathbb A^1\\)-enumerative geometry
+- Brauer groups and rational points on varieties
+- geometric ramification theory and higher class field theory
+- various topics in algebra
 
 ### Publications
 - **This is the title of your paper** \\
