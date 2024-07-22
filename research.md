@@ -9,7 +9,6 @@ My interests mainly lie in arithmetic geometry and number theory. Topics I'm int
 - \\(\mathbb A^1\\)-enumerative geometry
 - Brauer groups and rational points
 - Geometric ramification theory
-- Higher dimensional class field theory
 
 I also have secondary interests in various topics in algebra. 
 
