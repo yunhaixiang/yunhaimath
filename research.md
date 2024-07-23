@@ -7,7 +7,8 @@ permalink: /research
 My interests mainly lie in arithmetic geometry and number theory. Topics I'm interested in include
 
 - \\(\mathbb A^1\\)-enumerative geometry
-- Brauer groups and rational points
+- Brauer groups 
+- Rational points on varieties
 - Geometric ramification theory
 
 I also have secondary interests in various topics in algebra. 
