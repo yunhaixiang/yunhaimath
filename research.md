@@ -4,13 +4,14 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in arithmetic geometry and number theory. Topics I'm interested in include
+My interests mainly lie in arithmetic geometry and number theory. Specifically,
 
 - \\(\mathbb A^1\\)-enumerative geometry
 - Brauer groups 
 - Geometric ramification theory
+- Higher dimensional class field theory
 
-I also have secondary interests in various topics in algebra. 
+I also have some secondary interests in quantum algebra. 
 
 ### Publications
 - **This is the title of your paper** \\
