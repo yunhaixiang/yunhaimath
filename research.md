@@ -6,8 +6,8 @@ permalink: /research
 
 My interests mainly lie in arithmetic geometry and number theory. Specifically,
 
-- \\(\mathbb A^1\\)-enumerative geometry
 - Brauer groups 
+- \\(\mathbb A^1\\)-enumerative geometry
 - Geometric ramification theory
 - Higher dimensional class field theory
 
