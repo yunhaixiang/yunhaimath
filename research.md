@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests mainly lie in arithmetic  geometry and algebra. Specifically, some of the topics I'm curious about are:
+My research interests mainly lie in arithmetic  geometry, number theory, and algebra. Specifically, some of the topics I'm curious about are:
 
 - \\(\mathbb A^1\\)-enumerative geometry
 - Brauer groups and rational points 
