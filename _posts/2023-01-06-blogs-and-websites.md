@@ -78,6 +78,8 @@ tags: [favorites]
 - [Mathonline](http://mathonline.wikidot.com){:target="_blank"}
 - [Digital Mathematics Archive](http://sunsite.ubc.ca/DigitalMathArchive/){:target="_blank"}
 - [Digital Library for Mathematical Functions](https://dlmf.nist.gov/){:target="_blank"}
+- [Math Definitions](https://jessetvogel.nl/math-definitions/){:target="_blank"}
+- [Adjectives Project](https://adjectivesproject.org/){:target="_blank"}
 - [Banana Space](https://www.bananaspace.org/){:target="_blank"}
 - [MathPickle](https://mathpickle.com){:target="_blank"}
 - [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru){:target="_blank"}
