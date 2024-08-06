@@ -4,13 +4,13 @@ title: Research
 permalink: /research
 ---
 
-My research interests mainly lie in arithmetic  geometry and number theory, and I also have some secondary interests in algebra. Specifically, I'm curious about:
+My research interests mainly lie in arithmetic  geometry and number theory, and I also have some secondary interests in algebra. Specifically, I'm interested in
 
-- \\(\mathbb A^1\\)-enumerative geometry
-- Ramification theory of varieties and sheaves
-- Brauer groups and rational points on varieties
-- Iwasawa theory, \\(p\\)-adic \\(L\\)-functions, and Euler systems
-- Quantum groups, tensor categories, and diagram algebras
+- \\(\mathbb A^1\\)-enumerative geometry,
+- Ramification theory of varieties and sheaves,
+- Brauer groups and rational points on varieties,
+- Iwasawa theory, \\(p\\)-adic \\(L\\)-functions, and Euler systems,
+- Quantum groups, tensor categories, and diagram algebras,
 
 and various other topics. 
 
