@@ -9,8 +9,8 @@ My research interests mainly lie in arithmetic  geometry and number theory, and 
 - \\(\mathbb A^1\\)-enumerative geometry
 - Ramification theory of varieties and sheaves
 - Brauer groups and rational points on varieties
-- Iwasawa theory, \\(p\\)-adic \\(L\\)-functions, and Euler systems
-- Quantum groups, tensor categories, and diagrammatic algebra
+- Iwasawa theory and Euler systems
+- Quantum groups and tensor categories
 
 
 ### Publications
