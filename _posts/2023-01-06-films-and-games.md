@@ -73,7 +73,7 @@ tags: [favorites]
 
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}
-- [*Blue Eye Samurai*](https://www.imdb.com/title/tt13309742/){:target="_blank"}
+- [*Blue Eye Samurai* (2023)](https://www.imdb.com/title/tt13309742/){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
