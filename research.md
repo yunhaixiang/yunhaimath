@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests primarily lie in arithmetic  geometry and number theory, and I also have some secondary interests in algebra. Specifically, I'm interested in
+My research interests lie in arithmetic geometry, number theory, and algebra. Specifically,
 
 - \\(\mathbb A^1\\)-enumerative geometry,
 - Ramification theory of varieties and sheaves,
