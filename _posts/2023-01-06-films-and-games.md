@@ -13,7 +13,6 @@ tags: [favorites]
 - [*3 Idiots* (2009)](https://www.imdb.com/title/tt1187043/){:target="_blank"}
 - [*Inception* (2010)](https://www.imdb.com/title/tt1375666/){:target="_blank"}
 - [*WALL·E* (2008)](https://www.imdb.com/title/tt0910970/){:target="_blank"}
-- [*Tokyo Godfathers* (2003)](https://www.imdb.com/title/tt0388473/){:target="_blank"}
 - [*Paprika* (2006)](https://www.imdb.com/title/tt0851578/){:target="_blank"}
 - [*The Imitation Game* (2014)](https://www.imdb.com/title/tt2084970/){:target="_blank"}
 - [*Theory of Everything* (2014)](https://www.imdb.com/title/tt2980516/){:target="_blank"}
@@ -23,7 +22,6 @@ tags: [favorites]
 - [*Let the Bullets Fly* (2010)](https://www.imdb.com/title/tt1533117/){:target="_blank"}
 - [*The Lobster* (2015)](https://www.imdb.com/title/tt3464902/){:target="_blank"}
 - [*The Martian* (2015)](https://www.imdb.com/title/tt3659388/){:target="_blank"}
-- [*Brokeback Mountain* (2005)](https://www.imdb.com/title/tt0388795/)
 - [*The Prestige* (2006)](https://www.imdb.com/title/tt0482571/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
 
@@ -39,9 +37,8 @@ tags: [favorites]
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
 - [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
 - [*Wittgenstein: A Wonderful Life* (1989)](https://www.imdb.com/title/tt1119638/){:target="_blank"}
-- [*Manufacturing Consent: Noam Chomsky and the Media* (1992)](https://www.imdb.com/title/tt0104810/){:target="_blank"}
 
-### Anime
+### Anime and TV Series
 - [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/){:target="_blank"}
 - [*Code Geass* (2006)](https://www.imdb.com/title/tt0994314/?ref_=nv_sr_srsg_0){:target="_blank"}
 - [*Megalo Box* (2018)](https://www.imdb.com/title/tt7965802/){:target="_blank"}
@@ -68,9 +65,7 @@ tags: [favorites]
 - [*Death Note* (2006)](https://www.imdb.com/title/tt0877057/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
-
-### TV Series
-
+- [*Delicious in Dungeon* (2024)](https://www.imdb.com/title/tt21621494/){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}
 - [*Blue Eye Samurai* (2023)](https://www.imdb.com/title/tt13309742/){:target="_blank"}
@@ -84,10 +79,6 @@ tags: [favorites]
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
 - [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
 
-### Shorts
-- [*Dinner for Few* (2014)](https://www.imdb.com/title/tt3788934/){:target="_blank"}
-
-
 ### Video Games
 - [God of War](https://www.ign.com/games/god-of-war/){:target="_blank"}
 - [Uncharted 4: A Thief's End](https://www.ign.com/games/uncharted-4){:target="_blank"}
@@ -100,7 +91,6 @@ tags: [favorites]
 - [Bloodborne](https://www.ign.com/games/bloodborne){:target="_blank"}
 - [Dark Souls 3](https://www.ign.com/games/dark-souls-iii){:target="_blank"}
 - [Celeste](https://www.ign.com/games/celeste){:target="_blank"}
-- [Disco Elysium](https://www.ign.com/games/disco-elysium-the-final-cut){:target="_blank"}
 
 
 ### Board Games
