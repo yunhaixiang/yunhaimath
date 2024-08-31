@@ -6,11 +6,12 @@ permalink: /research
 
 My research interests lie in arithmetic geometry and algebra. Some topics I'm curious about are
 
+- Galois representations,
 - \\(\mathbb A^1\\)-enumerative geometry,
 - Ramification theory of varieties and sheaves,
 - Brauer groups and rational points on varieties,
 - Quantum groups and tensor categories, 
-<!--- - Categorification and higher representation theory-->
+<!-- - Categorification and 2-representation theory, -->
 
 and various other topics. 
 
