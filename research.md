@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research interests lie in arithmetic geometry and algebra. Some topics I'm curious about are
+My interests mainly lie in arithmetic geometry and number theory. Speficially, I'm curious about:
 
 - Galois representations,
 - \\(\mathbb A^1\\)-enumerative geometry,
@@ -13,7 +13,7 @@ My research interests lie in arithmetic geometry and algebra. Some topics I'm cu
 <!-- - Quantum groups and tensor categories, -->
 <!-- - Categorification and 2-representation theory, -->
 
-and various other topics. 
+and various other topics. I also have interests in various topics in algebra and representation theory. 
 
 ### Publications
 - **This is the title of your paper** \\
