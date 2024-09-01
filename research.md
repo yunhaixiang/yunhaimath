@@ -10,6 +10,7 @@ My interests mainly lie in arithmetic geometry and number theory. Speficially, I
 - \\(\mathbb A^1\\)-enumerative geometry,
 - Ramification theory of varieties and sheaves,
 - Brauer groups and rational points on varieties,
+<!-- - Moduli space of curves and abelian varieties, -->
 <!-- - Quantum groups and tensor categories, -->
 <!-- - Categorification and 2-representation theory, -->
 
