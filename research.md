@@ -14,7 +14,7 @@ My interests mainly lie in arithmetic geometry and number theory. Speficially, I
 <!-- - Quantum groups and tensor categories, -->
 <!-- - Categorification and 2-representation theory, -->
 
-and more. I also have secondary interests in various topics in algebra and representation theory. 
+and more. I also have secondary interests in various topics in algebra.
 
 ### Publications
 - **This is the title of your paper** \\
