@@ -11,10 +11,8 @@ My interests mainly lie in arithmetic geometry and number theory. Speficially, I
 - Ramification theory of varieties and sheaves,
 - Brauer groups and rational points on varieties,
 <!-- - Moduli space of curves and abelian varieties, -->
-<!-- - Quantum groups and tensor categories, -->
-<!-- - Categorification and 2-representation theory, -->
 
-and more. I also have secondary interests in various topics in algebra.
+and more. 
 
 ### Publications
 - **This is the title of your paper** \\
