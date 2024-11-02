@@ -81,17 +81,21 @@ tags: [favorites]
 - [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
 
 ### Video Games
-- [God of War](https://www.ign.com/games/god-of-war/){:target="_blank"}
-- [Uncharted 4: A Thief's End](https://www.ign.com/games/uncharted-4){:target="_blank"}
-- [Sekiro: Shadow Die Twice](https://www.ign.com/games/sekiro-shadows-die-twice){:target="_blank"}
-- [Elden Ring](https://www.ign.com/games/elden-ring){:target="_blank"}
-- [Genshin Impact](https://www.ign.com/games/genshin-impact){:target="_blank"}
-- [Minecraft](https://www.ign.com/games/minecraft){:target="_blank"}
-- [Besiege](https://www.ign.com/games/besiege/){:target="_blank"}
-- [Hollow Knight](https://www.ign.com/games/hollow-knight){:target="_blank"}
-- [Bloodborne](https://www.ign.com/games/bloodborne){:target="_blank"}
-- [Dark Souls 3](https://www.ign.com/games/dark-souls-iii){:target="_blank"}
-- [Celeste](https://www.ign.com/games/celeste){:target="_blank"}
+- [God of War](https://www.imdb.com/title/tt5838588/){:target="_blank"}
+- [Uncharted 4: A Thief's End](https://www.imdb.com/title/tt3334704/){:target="_blank"}
+- [Sekiro: Shadow Die Twice](https://www.imdb.com/title/tt8558306/){:target="_blank"}
+- [Elden Ring](https://www.imdb.com/title/tt10562854/){:target="_blank"}
+- [Genshin Impact](https://www.imdb.com/title/tt11585486/){:target="_blank"}
+- [Ghost of Tsushima](https://www.imdb.com/title/tt7651352/){:target="_blank"}
+- [Black Myth: Wukong](https://www.imdb.com/title/tt12969320/){:target="_blank"}
+- [Minecraft](https://www.imdb.com/title/tt2011970/){:target="_blank"}
+- [Besiege](https://www.imdb.com/title/tt7586508/){:target="_blank"}
+- [NieR: Automata](https://www.imdb.com/title/tt5238626/){:target="_blank"}
+- [Dark Souls 3](https://www.imdb.com/title/tt7651352/){:target="_blank"}
+- [Bloodborne](https://www.imdb.com/title/tt3814634/){:target="_blank"}
+- [Red Dead Redemption 2](https://www.imdb.com/title/tt6161168/){:target="_blank"}
+- [Disco Elysium](https://www.imdb.com/title/tt11177022/){:target="_blank"}
+- [Sifu](https://www.imdb.com/title/tt18079796/){:target="_blank"}
 
 
 ### Board Games
