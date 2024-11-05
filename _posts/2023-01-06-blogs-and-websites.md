@@ -69,6 +69,7 @@ tags: [favorites]
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
 - [Cut the Knot](https://www.cut-the-knot.org/){:target="_blank"}
 - [Planet Math](https://planetmath.org){:target="_blank"}
+- [Calimath](https://calimath.org/){:target="_blank"}
 - [Mathematics Genealogy Project](https://www.mathgenealogy.org/index.php){:target="_blank"}
 - [Numdam](http://www.numdam.org/?lang=en){:target="_blank"}
 - [Project Gutenberg](https://www.gutenberg.org){:target="_blank"}

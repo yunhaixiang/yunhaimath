@@ -12,7 +12,7 @@ My interests mainly lie in arithmetic geometry and number theory. Speficially, I
 - Brauer groups and rational points on varieties,
 <!-- - Moduli space of curves and abelian varieties, -->
 
-and more. 
+and more. I also have some secondary interests in algebra and representation theory. 
 
 ### Publications
 - **This is the title of your paper** \\
