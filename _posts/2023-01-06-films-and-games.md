@@ -93,10 +93,6 @@ tags: [favorites]
 - [*NieR: Automata* (2017)](https://www.imdb.com/title/tt5238626/){:target="_blank"}
 - [*Dark Souls 3* (2016)](https://www.imdb.com/title/tt7651352/){:target="_blank"}
 - [*Bloodborne* (2015)](https://www.imdb.com/title/tt3814634/){:target="_blank"}
-- [*Red Dead Redemption 2* (2018)](https://www.imdb.com/title/tt6161168/){:target="_blank"}
-- [*Disco Elysium* (2019)](https://www.imdb.com/title/tt11177022/){:target="_blank"}
-- [*Sifu* (2022)](https://www.imdb.com/title/tt18079796/){:target="_blank"}
-
 
 ### Board Games
 - [Go](https://en.wikipedia.org/wiki/Go_(game)){:target="_blank"}
