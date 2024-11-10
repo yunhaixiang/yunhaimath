@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in arithmetic geometry and number theory. Speficially, I'm curious about:
+My interests mainly lie in arithmetic geometry and number theory. Specifically, I'm curious about:
 
 - Galois representations,
 - \\(\mathbb A^1\\)-enumerative geometry,
