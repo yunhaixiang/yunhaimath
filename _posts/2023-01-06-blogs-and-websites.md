@@ -49,10 +49,10 @@ tags: [favorites]
 - [Kerodon](https://kerodon.net){:target="_blank"}
 - [Clowder Project](https://clowderproject.com/index.html){:target="_blank"}
 - [Automorphic Project](https://automorphic.jh.edu/){:target="_blank"}
-- [arxiv](https://arxiv.org){:target="_blank"}
+- [Arxiv](https://arxiv.org){:target="_blank"}
 - [MathBases](https://mathbases.org/){:target="_blank"}
 - [Pi-Base](https://topology.pi-base.org/){:target="_blank"}
-- [zbMATH Open](https://zbmath.org){:target="_blank"}
+- [ZBMATH Open](https://zbmath.org){:target="_blank"}
 - [Connected Papers](https://www.connectedpapers.com){:target="_blank"}
 - [Litmaps](https://app.litmaps.co){:target="_blank"}
 - [ScienceDirect](https://www.sciencedirect.com){:target="_blank"}
