@@ -75,6 +75,7 @@ tags: [favorites]
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
 - [*The Queen's Gambit* (2020)](https://www.imdb.com/title/tt10048342/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
+- [*Scissor Seven* (2018)](https://www.imdb.com/title/tt10384610/){:target="_blank"}
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
