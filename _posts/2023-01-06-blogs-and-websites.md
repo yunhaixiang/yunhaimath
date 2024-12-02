@@ -176,3 +176,4 @@ tags: [favorites]
 - [3Blue1Brown](https://www.3blue1brown.com){:target="_blank"}
 - [Brilliant](https://brilliant.org){:target="_blank"}
 - [MathDash](https://mathdash.live/){:target="_blank"}
+- [Cantor's Paradise](https://www.cantorsparadise.com/){:target="_blank"}
