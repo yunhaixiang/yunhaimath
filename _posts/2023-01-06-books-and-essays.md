@@ -35,6 +35,7 @@ tags: [favorites]
 - Matt Cook, [*Sleight of Mind* (2021)](https://www.goodreads.com/book/show/56947327-sleight-of-mind){:target="_blank"}
 - Clément Deslandes, Guillaume Deslandes, [*The Price of Cake* (2023)](https://www.goodreads.com/en/book/show/61238756-the-price-of-cake){:target="_blank"}
 - Jonas Peters, Nicolai Meinshausen, [*The Raven's Hat* (2021)](https://www.goodreads.com/book/show/56792714-the-raven-s-hat){:target="_blank"}
+- Alexander Bogomolny, [*Cut the Knot* (2020)](https://www.goodreads.com/book/show/55927993-cut-the-knot){:target="_blank"}
 
 ### Essays
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
