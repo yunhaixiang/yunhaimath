@@ -92,8 +92,6 @@ tags: [favorites]
 - [Classical Archives](https://www.classicalarchives.com/newca/#!/){:target="_blank"}
 - [Sensei's Library](https://senseis.xmp.net){:target="_blank"}
 - [Goodreads](https://www.goodreads.com){:target="_blank"}
-- [IMDb](https://www.imdb.com/){:target="_blank"}
-- [IGN](https://www.ign.com/ca){:target="_blank"}
 - [MUBI](https://mubi.com/en/ca){:target="_blank"}
 - [AZ Quotes](https://www.azquotes.com){:target="_blank"}
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
