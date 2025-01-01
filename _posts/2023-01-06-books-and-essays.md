@@ -36,6 +36,8 @@ tags: [favorites]
 - Clément Deslandes, Guillaume Deslandes, [*The Price of Cake* (2023)](https://www.goodreads.com/en/book/show/61238756-the-price-of-cake){:target="_blank"}
 - Jonas Peters, Nicolai Meinshausen, [*The Raven's Hat* (2021)](https://www.goodreads.com/book/show/56792714-the-raven-s-hat){:target="_blank"}
 - Alexander Bogomolny, [*Cut the Knot* (2020)](https://www.goodreads.com/book/show/55927993-cut-the-knot){:target="_blank"}
+- David Ruelle, [*The Mathematician's Brain* (2007)](https://www.goodreads.com/book/show/1678306.The_Mathematician_s_Brain){:target="_blank"}
+- Mikhail Shifman, [*You Failed Your Math Test, Comrade Einstein* (2005)](https://www.goodreads.com/book/show/136913527-you-failed-your-math-test-comrade-einstein){:target="_blank"}
 
 ### Essays
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
