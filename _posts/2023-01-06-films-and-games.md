@@ -58,7 +58,7 @@ tags: [favorites]
 - [*Spy x Family* (2022)](https://www.imdb.com/title/tt13706018/){:target="_blank"}
 - [*Lycoris Recoil* (2022)](https://www.imdb.com/title/tt16755706/){:target="_blank"}
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
-- [*JoJo's Bizzare Adventures* (2012)](https://www.imdb.com/title/tt2359704/){:target="_blank"}
+- [*Dandadan* (2024)](https://www.imdb.com/title/tt30217403/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
 - [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
