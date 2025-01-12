@@ -8,14 +8,11 @@ tags: [favorites]
 
 ### Movies 
 - [*Spirited Away* (2001)](https://www.imdb.com/title/tt0245429/){:target="_blank"}
-- [*Howl's Moving Castle* (2004)](https://www.imdb.com/title/tt0347149/){:target="_blank"}
 - [*Good Will Hunting* (1997)](https://www.imdb.com/title/tt0119217/){:target="_blank"}
 - [*3 Idiots* (2009)](https://www.imdb.com/title/tt1187043/){:target="_blank"}
 - [*Inception* (2010)](https://www.imdb.com/title/tt1375666/){:target="_blank"}
 - [*WALL·E* (2008)](https://www.imdb.com/title/tt0910970/){:target="_blank"}
 - [*Paprika* (2006)](https://www.imdb.com/title/tt0851578/){:target="_blank"}
-- [*The Imitation Game* (2014)](https://www.imdb.com/title/tt2084970/){:target="_blank"}
-- [*Theory of Everything* (2014)](https://www.imdb.com/title/tt2980516/){:target="_blank"}
 - [*Ip Man* (2008)](https://www.imdb.com/title/tt1220719/){:target="_blank"}
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
@@ -85,15 +82,8 @@ tags: [favorites]
 - [*God of War* (2018)](https://www.imdb.com/title/tt5838588/){:target="_blank"}
 - [*Uncharted 4: A Thief's End* (2016)](https://www.imdb.com/title/tt3334704/){:target="_blank"}
 - [*Sekiro: Shadow Die Twice* (2019)](https://www.imdb.com/title/tt8558306/){:target="_blank"}
-- [*Elden Ring* (2022)](https://www.imdb.com/title/tt10562854/){:target="_blank"}
-- [*Genshin Impact* (2020)](https://www.imdb.com/title/tt11585486/){:target="_blank"}
-- [*Ghost of Tsushima* (2020)](https://www.imdb.com/title/tt7651352/){:target="_blank"}
-- [*Black Myth: Wukong* (2024)](https://www.imdb.com/title/tt12969320/){:target="_blank"}
-- [*Minecraft* (2009)](https://www.imdb.com/title/tt2011970/){:target="_blank"}
 - [*Besiege* (2015)](https://www.imdb.com/title/tt7586508/){:target="_blank"}
 - [*NieR: Automata* (2017)](https://www.imdb.com/title/tt5238626/){:target="_blank"}
-- [*Dark Souls 3* (2016)](https://www.imdb.com/title/tt7651352/){:target="_blank"}
-- [*Bloodborne* (2015)](https://www.imdb.com/title/tt3814634/){:target="_blank"}
 
 ### Board Games
 - [Go](https://en.wikipedia.org/wiki/Go_(game)){:target="_blank"}
