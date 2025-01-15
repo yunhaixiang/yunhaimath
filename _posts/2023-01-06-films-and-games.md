@@ -8,7 +8,6 @@ tags: [favorites]
 
 ### Movies 
 - [*Spirited Away* (2001)](https://www.imdb.com/title/tt0245429/){:target="_blank"}
-- [*Good Will Hunting* (1997)](https://www.imdb.com/title/tt0119217/){:target="_blank"}
 - [*3 Idiots* (2009)](https://www.imdb.com/title/tt1187043/){:target="_blank"}
 - [*Inception* (2010)](https://www.imdb.com/title/tt1375666/){:target="_blank"}
 - [*WALL·E* (2008)](https://www.imdb.com/title/tt0910970/){:target="_blank"}
@@ -37,14 +36,15 @@ tags: [favorites]
 
 ### Anime and TV Series
 - [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/){:target="_blank"}
-- [*Code Geass* (2006)](https://www.imdb.com/title/tt0994314/?ref_=nv_sr_srsg_0){:target="_blank"}
+- [*Code Geass* (2006)](https://www.imdb.com/title/tt0994314/){:target="_blank"}
+- [*Vinland Saga* (2019)](https://www.imdb.com/title/tt10233448/){:target="_blank"}
 - [*Megalo Box* (2018)](https://www.imdb.com/title/tt7965802/){:target="_blank"}
 - [*Asobi Asobase* (2018)](https://www.imdb.com/title/tt8515062/){:target="_blank"}
 - [*Your Lie in April* (2014)](https://www.imdb.com/title/tt3895150/){:target="_blank"}
-- [*Cowboy Bebop* (1998)](https://www.imdb.com/title/tt0213338/?ref_=nv_sr_srsg_0){:target="_blank"}
-- [*Hikaru no Go* (2001)](https://www.imdb.com/title/tt0426711/?ref_=nv_sr_srsg_0){:target="_blank"}
-- [*Parasyte: The Maxim* (2014)](https://www.imdb.com/title/tt3358020/?ref_=nv_sr_srsg_0){:target="_blank"}
-- [*Great Pretender* (2020)](https://www.imdb.com/title/tt11680468/?ref_=nv_sr_srsg_0){:target="_blank"}
+- [*Cowboy Bebop* (1998)](https://www.imdb.com/title/tt0213338/){:target="_blank"}
+- [*Hikaru no Go* (2001)](https://www.imdb.com/title/tt0426711/){:target="_blank"}
+- [*Parasyte: The Maxim* (2014)](https://www.imdb.com/title/tt3358020/){:target="_blank"}
+- [*Great Pretender* (2020)](https://www.imdb.com/title/tt11680468/){:target="_blank"}
 - [*One Punch Man* (2015)](https://www.imdb.com/title/tt4508902/){:target="_blank"}
 - [*Silver Spoon* (2013)](https://www.imdb.com/title/tt2909912/){:target="_blank"}
 - [*Tanaka-kun is Always Listless* (2016)](https://www.imdb.com/title/tt5531604/){:target="_blank"}
@@ -70,7 +70,6 @@ tags: [favorites]
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
-- [*The Queen's Gambit* (2020)](https://www.imdb.com/title/tt10048342/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
 - [*Scissor Seven* (2018)](https://www.imdb.com/title/tt10384610/){:target="_blank"}
 - [*Breaking Bad* (2008)](https://www.imdb.com/title/tt0903747/){:target="_blank"}
@@ -82,7 +81,6 @@ tags: [favorites]
 - [*God of War* (2018)](https://www.imdb.com/title/tt5838588/){:target="_blank"}
 - [*Uncharted 4: A Thief's End* (2016)](https://www.imdb.com/title/tt3334704/){:target="_blank"}
 - [*Sekiro: Shadow Die Twice* (2019)](https://www.imdb.com/title/tt8558306/){:target="_blank"}
-- [*Besiege* (2015)](https://www.imdb.com/title/tt7586508/){:target="_blank"}
 - [*NieR: Automata* (2017)](https://www.imdb.com/title/tt5238626/){:target="_blank"}
 
 ### Board Games
