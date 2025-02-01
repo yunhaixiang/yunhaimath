@@ -4,15 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in arithmetic geometry and number theory. Specifically, I'm curious about:
-
-- Galois representations,
-- \\(\mathbb A^1\\)-enumerative geometry,
-- Ramification theory of varieties and sheaves,
-- Brauer groups and rational points on varieties,
-- Moduli space of abelian varieties,
-
-Outside my main interests, I'm somewhat interested in 2-representation theory and model theory.
+My interests mainly lie in arithmetic geometry and number theory. Outside my main interests, I'm somewhat interested in 2-representation theory and model theory.
 
 ### Publications
 - **This is the title of your paper** \\
