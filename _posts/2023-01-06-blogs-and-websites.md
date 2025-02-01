@@ -49,6 +49,7 @@ tags: [favorites]
 - [Kerodon](https://kerodon.net){:target="_blank"}
 - [Clowder Project](https://clowderproject.com/index.html){:target="_blank"}
 - [Automorphic Project](https://automorphic.jh.edu/){:target="_blank"}
+- [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/index.html){:target="_blank"}
 - [Arxiv](https://arxiv.org){:target="_blank"}
 - [MathBases](https://mathbases.org/){:target="_blank"}
 - [Pi-Base](https://topology.pi-base.org/){:target="_blank"}
