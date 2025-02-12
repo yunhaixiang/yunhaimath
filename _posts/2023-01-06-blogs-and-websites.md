@@ -67,6 +67,7 @@ tags: [favorites]
 - [Fanography](https://www.fanography.info/){:target="_blank"}
 - [Grassmannian](https://www.grassmannian.info/){:target="_blank"}
 - [Hyperkaehler](https://www.hyperkaehler.info/){:target="_blank"}
+- [3-Dimensional](https://3-dimensional.space/){:target="_blank"}
 - [Mgnbar](https://mgnbar.info/){:target="_blank"}
 - [Superficie](https://superficie.info/){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
