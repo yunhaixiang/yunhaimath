@@ -17,15 +17,15 @@ tags: [favorites]
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
 
 ### Documentaries
+- [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
 - [*AlphaGo* (2017)](https://www.imdb.com/title/tt6700846/){:target="_blank"}
+- [*Free Solo* (2018)](https://www.imdb.com/title/tt7775622/){:target="_blank"}
 - [*The Surrounding Game* (2018)](https://www.imdb.com/title/tt3973724/){:target="_blank"}
 - [*A Pervert's Guide to Ideology* (2012)](https://www.imdb.com/title/tt2152198/){:target="_blank"}
-- [*Free Solo* (2018)](https://www.imdb.com/title/tt7775622/){:target="_blank"}
 - [*Exit Through the Gift Shop* (2010)](https://www.imdb.com/title/tt1587707){:target="_blank"}
 - [*N Is a Number: A Portrait of Paul Erdös* (1993)](https://www.imdb.com/title/tt0125425/){:target="_blank"}
 - [*David Copperfield: 15 Years of Magic* (1994)](https://www.imdb.com/title/tt0293381/){:target="_blank"}
-- [*Industrial Light & Magic: Creating the Impossible* (2010)](https://www.imdb.com/title/tt1657302/)
-- [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
+- [*Industrial Light & Magic: Creating the Impossible* (2010)](https://www.imdb.com/title/tt1657302/){:target="_blank"}
 - [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
 - [*Wittgenstein: A Wonderful Life* (1989)](https://www.imdb.com/title/tt1119638/){:target="_blank"}
 
