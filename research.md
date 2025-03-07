@@ -8,8 +8,7 @@ My interests mainly lie in arithmetic geometry and number theory. Specifically, 
 
 - Galois representations
 - \\(\mathbb A^1\\)-enumerative geometry
-- Ramification theory of varieties and sheaves
-- Brauer groups and rational points on varieties
+- Brauer groups and rational points
 - Moduli space of abelian varieties
 
 Outside my main interests, I'm also interested in model theory and foundations of mathematics.
