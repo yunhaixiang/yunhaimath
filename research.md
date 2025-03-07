@@ -6,10 +6,13 @@ permalink: /research
 
 My interests mainly lie in arithmetic geometry and number theory. Specifically, I'm curious about
 
-- Galois representations
-- \\(\mathbb A^1\\)-enumerative geometry
 - Brauer groups and rational points
-- Moduli space of abelian varieties
+- Moduli of abelian varieties
+- Galois representations
+- Ramification theory
+- \\(\mathbb A^1\\)-enumerative geometry
+
+
 
 Outside my main interests, I'm also interested in model theory and foundations of mathematics.
 
