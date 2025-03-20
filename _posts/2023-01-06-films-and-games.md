@@ -15,6 +15,7 @@ tags: [favorites]
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
+- [*Taxi Driver* (1976)](https://www.imdb.com/title/tt0075314/){:target="_blank"}
 
 ### Documentaries
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
@@ -41,7 +42,6 @@ tags: [favorites]
 - [*Parasyte: The Maxim* (2014)](https://www.imdb.com/title/tt3358020/){:target="_blank"}
 - [*Great Pretender* (2020)](https://www.imdb.com/title/tt11680468/){:target="_blank"}
 - [*One Punch Man* (2015)](https://www.imdb.com/title/tt4508902/){:target="_blank"}
-- [*Silver Spoon* (2013)](https://www.imdb.com/title/tt2909912/){:target="_blank"}
 - [*Tanaka-kun is Always Listless* (2016)](https://www.imdb.com/title/tt5531604/){:target="_blank"}
 - [*Assassination Classroom* (2013)](https://www.imdb.com/title/tt3837246/){:target="_blank"}
 - [*Clannad: After Story* (2008)](https://www.imdb.com/title/tt1298820/){:target="_blank"}
@@ -59,7 +59,6 @@ tags: [favorites]
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
 - [*Delicious in Dungeon* (2024)](https://www.imdb.com/title/tt21621494/){:target="_blank"}
-- [*Miss Kobayashi's Dragon Maid* (2017)](https://www.imdb.com/title/tt6185782/){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}
 - [*Blue Eye Samurai* (2023)](https://www.imdb.com/title/tt13309742/){:target="_blank"}
