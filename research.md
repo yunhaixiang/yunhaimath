@@ -8,7 +8,6 @@ My interests mainly lie in arithmetic geometry and number theory. Specifically, 
 
 - Brauer groups
 - Ramification theory
-- Galois representations
 - Moduli of abelian varieties
 - \\(\mathbb A^1\\)-enumerative geometry
 
