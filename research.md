@@ -11,7 +11,7 @@ My interests mainly lie in arithmetic geometry and number theory. Specifically, 
 - \\(\mathbb A^1\\)-enumerative geometry
 - Moduli of abelian varieties
 
-Outside my main interests, I'm also interested in model theory and foundations of mathematics.
+Outside my research interests, I have some side interests in the foundations of mathematics.
 
 ### Publications
 - **This is the title of your paper** \\
