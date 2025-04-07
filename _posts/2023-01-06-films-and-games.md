@@ -58,6 +58,7 @@ tags: [favorites]
 - [*Frieren: Beyond Journey's End* (2024)](https://www.imdb.com/title/tt22248376/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
+- [*In/Spectre* (2020)](https://www.imdb.com/title/tt11328872/){:target="_blank"}
 - [*Delicious in Dungeon* (2024)](https://www.imdb.com/title/tt21621494/){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}

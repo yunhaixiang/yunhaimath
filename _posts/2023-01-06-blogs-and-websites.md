@@ -149,6 +149,7 @@ tags: [favorites]
 - [Jekyll](https://jekyllrb.com/){:target="_blank"}
 - [Hugo](https://gohugo.io/){:target="_blank"}
 - [Artlist.io](https://artlist.io/){:target="_blank"}
+- [StoryBlocks](https://www.storyblocks.com/){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
