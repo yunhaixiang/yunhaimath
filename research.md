@@ -9,7 +9,7 @@ My interests mainly lie in arithmetic geometry. Specifically, I'm curious about
 - Brauer groups
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
-- Moduli spaces and algebraic stacks
+- Moduli spaces and stacks
 
 Outside my research interests, I have some side interests in the foundations of mathematics.
 
