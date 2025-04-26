@@ -10,7 +10,6 @@ My interests mainly lie in number theory and arithmetic geometry. Specifically, 
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
 - Moduli spaces and stacks
-- Algebraic monodromy groups
 
 
 ### Publications
