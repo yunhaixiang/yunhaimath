@@ -72,6 +72,7 @@ tags: [favorites]
 - [Superficie](https://superficie.info/){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
 - [Cut the Knot](https://www.cut-the-knot.org/){:target="_blank"}
+- [The Knot Atlas](https://katlas.org/wiki/Main_Page){:target="_blank"}
 - [Planet Math](https://planetmath.org){:target="_blank"}
 - [Calimath](https://calimath.org/){:target="_blank"}
 - [Approach Zero](https://approach0.xyz/search/){:target="_blank"}
