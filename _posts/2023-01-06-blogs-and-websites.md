@@ -70,6 +70,7 @@ tags: [favorites]
 - [3-Dimensional](https://3-dimensional.space/){:target="_blank"}
 - [Mgnbar](https://mgnbar.info/){:target="_blank"}
 - [Superficie](https://superficie.info/){:target="_blank"}
+- [Open Problem Garden](http://www.openproblemgarden.org/){:target="_blank"}
 - [Database of Ring Theory](https://ringtheory.herokuapp.com){:target="_blank"}
 - [Cut the Knot](https://www.cut-the-knot.org/){:target="_blank"}
 - [The Knot Atlas](https://katlas.org/wiki/Main_Page){:target="_blank"}
