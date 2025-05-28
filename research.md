@@ -10,8 +10,9 @@ My interests mainly lie in number theory and arithmetic geometry. Specifically, 
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
 - Moduli spaces and stacks
+- p-adic cohomology theories
 
-Outside my main interest, I'm somewhat curious about logic and foundations of mathematics. 
+Outside my main interest, I'm curious about logic and foundations of mathematics. 
 
 ### Publications
 - **This is the title of your paper** \\
