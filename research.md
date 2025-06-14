@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in number theory and arithmetic geometry. Specifically, I'm interested in
+My interests mainly lie in number theory, arithmetic geometry, and algebra. I'm most interested in topics of an algebraic flavor. Some topics I want to explore include
 
 - Rational points
 - Ramification theory
@@ -12,7 +12,7 @@ My interests mainly lie in number theory and arithmetic geometry. Specifically, 
 - Moduli spaces and stacks
 - Galois and monodromy representations
 
-and more. Outside my main interest, I'm curious about logic and foundations of mathematics. 
+Outside my main interest, I'm curious about logic and foundations of mathematics. 
 
 ### Publications
 - **This is the title of your paper** \\
