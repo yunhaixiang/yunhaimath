@@ -144,14 +144,11 @@ tags: [favorites]
 - [Blender](https://www.blender.org){:target="_blank"}
 - [Unreal Engine](https://www.unrealengine.com/en-US){:target="_blank"}
 - [Godot](https://godotengine.org){:target="_blank"}
-- [Adobe Express](https://www.adobe.com/express/){:target="_blank"}
 - [MathCha](https://www.mathcha.io){:target="_blank"}
 - [TeXnique](https://texnique.xyz){:target="_blank"}
 - [Hexo](https://hexo.io/index.html){:target="_blank"}
 - [Jekyll](https://jekyllrb.com/){:target="_blank"}
 - [Hugo](https://gohugo.io/){:target="_blank"}
-- [Artlist.io](https://artlist.io/){:target="_blank"}
-- [StoryBlocks](https://www.storyblocks.com/){:target="_blank"}
 
 ### Media and Socials
 - [Mathoverflow](https://mathoverflow.net){:target="_blank"}
