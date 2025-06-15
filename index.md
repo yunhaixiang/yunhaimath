@@ -8,4 +8,4 @@ Hello! My name is Yunhai Xiang (in Chinese: 项云海, pronounced as “yee-o-en
 
 <!---I have a math blog called [_The Singularity_](https://thesingularity.me){:target="_blank"}. -->
 
-Outside math, I'm curious, but not very knowledgeable, about philosophy. I also dabble in close-up magic, which is a hobby I've had since I was young. In my free time, I enjoy reading, anime, films, video games, and the game of Go. 
+Outside math, I'm curious, but not very knowledgeable, about philosophy. I also dabble in close-up magic, which is a hobby I've had since I was young. In my free time, I enjoy reading, anime, films, and video games
