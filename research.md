@@ -10,7 +10,7 @@ My interests mainly lie in number theory, arithmetic geometry, and algebra. I'm 
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
 - Moduli spaces and stacks
-- Galois and monodromy representations
+- Galois representations
 
 Outside my main interest, I'm curious about logic and foundations of mathematics. 
 
