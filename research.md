@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My interests mainly lie in number theory and arithmetic geometry. I am especially interested in topics of an algebraic flavor. Some topics I want to explore include
+My interests mainly lie in number theory and arithmetic geometry. Topics I want to explore include
 
 - Rational points
 - Ramification theory
