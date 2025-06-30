@@ -52,6 +52,8 @@ tags: [favorites]
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*Dandadan* (2024)](https://www.imdb.com/title/tt30217403/){:target="_blank"}
 - [*Ya Boy Kongming!* (2022)](https://www.imdb.com/title/tt15978212/){:target="_blank"}
+- [*Samurai Champloo*]
+- [*Hell's Paradise*]
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
 - [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
