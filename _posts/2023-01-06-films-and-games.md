@@ -75,6 +75,7 @@ tags: [favorites]
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
 - [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
+- [*The Day of The Jackel*]
 
 ### Video Games
 - [*God of War* (2018)](https://www.imdb.com/title/tt5838588/){:target="_blank"}

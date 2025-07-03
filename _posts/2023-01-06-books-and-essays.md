@@ -31,7 +31,7 @@ tags: [favorites]
 - Peter Winkler, [*Mathematical Puzzles: A Connoisseur's Collection* (2003)](https://www.goodreads.com/book/show/9854325){:target="_blank"}
 - Martin Gardner, [*Mathematics, Magic and Mystery* (1956)](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery){:target="_blank"}
 - Martin Gardner, [*Mathematical Magic Show* (1977)](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show){:target="_blank"}
-- Colm Mulcahy, [*Mathematical Card Magic: Fifty-Two New Effects* (2013)](Mathematical Card Magic: Fifty-Two New Effects){:target="_blank"}
+- Colm Mulcahy, [*Mathematical Card Magic: Fifty-Two New Effects* (2013)](https://www.goodreads.com/book/show/14411333-mathematical-card-magic){:target="_blank"}
 - Matt Cook, [*Sleight of Mind* (2021)](https://www.goodreads.com/book/show/56947327-sleight-of-mind){:target="_blank"}
 - Clément Deslandes, Guillaume Deslandes, [*The Price of Cake* (2023)](https://www.goodreads.com/en/book/show/61238756-the-price-of-cake){:target="_blank"}
 - Jonas Peters, Nicolai Meinshausen, [*The Raven's Hat* (2021)](https://www.goodreads.com/book/show/56792714-the-raven-s-hat){:target="_blank"}
