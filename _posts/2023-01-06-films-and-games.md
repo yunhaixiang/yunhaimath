@@ -9,13 +9,15 @@ tags: [favorites]
 ### Movies 
 - [*Spirited Away* (2001)](https://www.imdb.com/title/tt0245429/){:target="_blank"}
 - [*3 Idiots* (2009)](https://www.imdb.com/title/tt1187043/){:target="_blank"}
-- [*WALL·E* (2008)](https://www.imdb.com/title/tt0910970/){:target="_blank"}
 - [*Paprika* (2006)](https://www.imdb.com/title/tt0851578/){:target="_blank"}
 - [*Ip Man* (2008)](https://www.imdb.com/title/tt1220719/){:target="_blank"}
 - [*Everything Everywhere All at Once* (2022)](https://www.imdb.com/title/tt6710474/){:target="_blank"}
 - [*The Chorus* (2004)](https://www.imdb.com/title/tt0372824/){:target="_blank"}
 - [*Life of Brian* (1979)](https://www.imdb.com/title/tt0079470/){:target="_blank"}
 - [*Taxi Driver* (1976)](https://www.imdb.com/title/tt0075314/){:target="_blank"}
+- [*Seven Samurai* (1954)](https://www.imdb.com/title/tt0047478/){:target="_blank"}
+- [*Once Upon a Time in the West* (1968)](https://www.imdb.com/title/tt0064116/){:target="_blank"}
+- [*Crouching Tiger Hidden Dragon* (2000)](https://www.imdb.com/title/tt0190332/){:target="_blank"}
 
 ### Documentaries
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
@@ -27,7 +29,6 @@ tags: [favorites]
 - [*N Is a Number: A Portrait of Paul Erdös* (1993)](https://www.imdb.com/title/tt0125425/){:target="_blank"}
 - [*David Copperfield: 15 Years of Magic* (1994)](https://www.imdb.com/title/tt0293381/){:target="_blank"}
 - [*Industrial Light & Magic: Creating the Impossible* (2010)](https://www.imdb.com/title/tt1657302/){:target="_blank"}
-- [*Alexander Grothendieck, sur les routes d'un génie* (2013)](https://www.imdb.com/title/tt27542836/){:target="_blank"}
 - [*Wittgenstein: A Wonderful Life* (1989)](https://www.imdb.com/title/tt1119638/){:target="_blank"}
 
 ### Anime and TV Series
@@ -52,8 +53,7 @@ tags: [favorites]
 - [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*Dandadan* (2024)](https://www.imdb.com/title/tt30217403/){:target="_blank"}
 - [*Ya Boy Kongming!* (2022)](https://www.imdb.com/title/tt15978212/){:target="_blank"}
-- [*Samurai Champloo*]
-- [*Hell's Paradise*]
+- [*Samurai Champloo* (2004)](https://www.imdb.com/title/tt0423731/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
 - [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
 - [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
@@ -75,7 +75,7 @@ tags: [favorites]
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
 - [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
-- [*The Day of The Jackel*]
+- [*The Day of The Jackel* (2024)](https://www.imdb.com/title/tt24053860/){:target="_blank"}
 
 ### Video Games
 - [*God of War* (2018)](https://www.imdb.com/title/tt5838588/){:target="_blank"}
@@ -85,8 +85,9 @@ tags: [favorites]
 - [*Black Myth: Wukong* (2024)](https://www.imdb.com/title/tt12969320/){:target="_blank"}
 - [*GRIS* (2018)](https://www.imdb.com/title/tt9386794/){:target="_blank"}
 - [*Ghost of Tsushima* (2020)](https://www.imdb.com/title/tt7651352/){:target="_blank"}
+- [*Minecraft* (2009)](https://www.imdb.com/title/tt2011970/){:target="_blank"}
 
-### Board Games
+### Abstract Strategy Games
 - [Go](https://en.wikipedia.org/wiki/Go_(game)){:target="_blank"}
 - [Shogi](https://en.wikipedia.org/wiki/Shogi){:target="_blank"}
 - [Hex](https://en.wikipedia.org/wiki/Hex_(board_game)){:target="_blank"}

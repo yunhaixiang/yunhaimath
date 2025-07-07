@@ -6,8 +6,6 @@ tags: [favorites]
 
 ---
 ### Fictions
-- Greg Egan, [_Axiomatic_ (1990)](https://www.goodreads.com/no/book/show/156783.Axiomatic){:target="_blank"}
-- Greg Egan, [_Permutation City_ (1994)](https://www.goodreads.com/book/show/156784.Permutation_City){:target="_blank"}
 - Liu Cixin, [_Remembrance of Earth's Past: The Three-Body Trilogy_ (2017)](https://www.goodreads.com/book/show/34569357-remembrance-of-earth-s-past){:target="_blank"}
 
 ### Philosophy and Non-fictions
