@@ -61,13 +61,11 @@ tags: [favorites]
 - [*Frieren: Beyond Journey's End* (2024)](https://www.imdb.com/title/tt22248376/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
-- [*In/Spectre* (2020)](https://www.imdb.com/title/tt11328872/){:target="_blank"}
 - [*Delicious in Dungeon* (2024)](https://www.imdb.com/title/tt21621494/){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}
 - [*Blue Eye Samurai* (2023)](https://www.imdb.com/title/tt13309742/){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
-- [*Inside Job* (2021)](https://www.imdb.com/title/tt10231312/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
 - [*Scissor Seven* (2018)](https://www.imdb.com/title/tt10384610/){:target="_blank"}
@@ -75,7 +73,6 @@ tags: [favorites]
 - [*Better Call Saul* (2015)](https://www.imdb.com/title/tt3032476/){:target="_blank"}
 - [*Unnatural* (2018)](https://www.imdb.com/title/tt7521882/){:target="_blank"}
 - [*Three Kingdoms* (2010)](https://www.imdb.com/title/tt1514753/){:target="_blank"}
-- [*The Day of The Jackel* (2024)](https://www.imdb.com/title/tt24053860/){:target="_blank"}
 
 ### Video Games
 - [*God of War* (2018)](https://www.imdb.com/title/tt5838588/){:target="_blank"}
