@@ -36,6 +36,8 @@ tags: [favorites]
 - Alexander Bogomolny, [*Cut the Knot* (2020)](https://www.goodreads.com/book/show/55927993-cut-the-knot){:target="_blank"}
 - David Ruelle, [*The Mathematician's Brain* (2007)](https://www.goodreads.com/book/show/1678306.The_Mathematician_s_Brain){:target="_blank"}
 - Mikhail Shifman, [*You Failed Your Math Test, Comrade Einstein* (2005)](https://www.goodreads.com/book/show/136913527-you-failed-your-math-test-comrade-einstein){:target="_blank"}
+- David Ruelle, [*The Mathematician's Brain* (2018)](https://www.goodreads.com/en/book/show/1678306.The_Mathematician_s_Brain){:target="_blank"}
+- Jacques Hadamard, [*The Psychology of Invention in the Mathematical Field* (1945)](https://www.goodreads.com/book/show/1555661.The_Mathematician_s_Mind){:target="_blank"}
 
 ### Essays
 - Eugene Wigner, _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_ (1960)
