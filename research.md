@@ -12,7 +12,7 @@ My interests mainly lie in arithmetic geometry. Especially,
 - Moduli spaces and stacks
 - Galois representations
 
-Outside my main interest, I'm curious about logic and foundations of mathematics. 
+Outside my main interest, I'm curious about mathematical logic.
 
 ### Publications
 - **This is the title of your paper** \\
