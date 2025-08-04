@@ -18,6 +18,7 @@ tags: [favorites]
 - [*Seven Samurai* (1954)](https://www.imdb.com/title/tt0047478/){:target="_blank"}
 - [*Once Upon a Time in the West* (1968)](https://www.imdb.com/title/tt0064116/){:target="_blank"}
 - [*Crouching Tiger Hidden Dragon* (2000)](https://www.imdb.com/title/tt0190332/){:target="_blank"}
+- [*Farewell My Concubine* (1993)](https://www.imdb.com/title/tt0106332/){:target="_blank"}
 
 ### Documentaries
 - [*Dealt* (2017)](https://www.imdb.com/title/tt3127902/){:target="_blank"}
@@ -45,26 +46,20 @@ tags: [favorites]
 - [*One Punch Man* (2015)](https://www.imdb.com/title/tt4508902/){:target="_blank"}
 - [*Tanaka-kun is Always Listless* (2016)](https://www.imdb.com/title/tt5531604/){:target="_blank"}
 - [*Assassination Classroom* (2013)](https://www.imdb.com/title/tt3837246/){:target="_blank"}
-- [*Clannad: After Story* (2008)](https://www.imdb.com/title/tt1298820/){:target="_blank"}
 - [*Hyouka* (2012)](https://www.imdb.com/title/tt2340841/){:target="_blank"}
 - [*Love, Chunibyo & Other Delusions* (2012)](https://www.imdb.com/title/tt2321542/){:target="_blank"}
 - [*Spy x Family* (2022)](https://www.imdb.com/title/tt13706018/){:target="_blank"}
 - [*Lycoris Recoil* (2022)](https://www.imdb.com/title/tt16755706/){:target="_blank"}
-- [*A Certain Scientific Railgun* (2009)](https://www.imdb.com/title/tt1515996/){:target="_blank"}
 - [*Dandadan* (2024)](https://www.imdb.com/title/tt30217403/){:target="_blank"}
-- [*Ya Boy Kongming!* (2022)](https://www.imdb.com/title/tt15978212/){:target="_blank"}
 - [*Samurai Champloo* (2004)](https://www.imdb.com/title/tt0423731/){:target="_blank"}
 - [*Neon Genesis Evangelion* (1995)](https://www.imdb.com/title/tt0112159/){:target="_blank"}
-- [*Summertime Rendering* (2022)](https://www.imdb.com/title/tt15686254/){:target="_blank"}
 - [*Nichijou* (2011)](https://www.imdb.com/title/tt2098308/){:target="_blank"}
 - [*Death Note* (2006)](https://www.imdb.com/title/tt0877057/){:target="_blank"}
-- [*Frieren: Beyond Journey's End* (2024)](https://www.imdb.com/title/tt22248376/){:target="_blank"}
 - [*The Apothecary Diaries* (2023)](https://www.imdb.com/title/tt26743760/){:target="_blank"}
 - [*Legend of the Galactic Heroes* (1988)](https://www.imdb.com/title/tt0096633/){:target="_blank"}
 - [*Delicious in Dungeon* (2024)](https://www.imdb.com/title/tt21621494/){:target="_blank"}
 - [*Love, Death & Robots* (2019)](https://www.imdb.com/title/tt9561862/){:target="_blank"}
 - [*Arcane* (2021)](https://www.imdb.com/title/tt11126994/){:target="_blank"}
-- [*Blue Eye Samurai* (2023)](https://www.imdb.com/title/tt13309742/){:target="_blank"}
 - [*Rick and Morty* (2013)](https://www.imdb.com/title/tt2861424/){:target="_blank"}
 - [*The IT Crowd* (2006)](https://www.imdb.com/title/tt0487831/){:target="_blank"}
 - [*Legal High* (2012)](https://www.imdb.com/title/tt2276587/){:target="_blank"}
@@ -81,7 +76,6 @@ tags: [favorites]
 - [*NieR: Automata* (2017)](https://www.imdb.com/title/tt5238626/){:target="_blank"}
 - [*Black Myth: Wukong* (2024)](https://www.imdb.com/title/tt12969320/){:target="_blank"}
 - [*GRIS* (2018)](https://www.imdb.com/title/tt9386794/){:target="_blank"}
-- [*Ghost of Tsushima* (2020)](https://www.imdb.com/title/tt7651352/){:target="_blank"}
 - [*Minecraft* (2009)](https://www.imdb.com/title/tt2011970/){:target="_blank"}
 
 ### Abstract Strategy Games
