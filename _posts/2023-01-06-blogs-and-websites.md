@@ -102,6 +102,7 @@ tags: [favorites]
 - [Conjuring Archive](https://www.conjuringarchive.com){:target="_blank"}
 - [MagicPedia](https://geniimagazine.com/wiki/index.php){:target="_blank"}
 - [Lingolia](https://www.lingolia.com/en/){:target="_blank"}
+- [Open Problem Garden](http://www.openproblemgarden.org/){:target="_blank"}
 
 ### Tools and Softwares
 - [Overleaf](https://www.overleaf.com){:target="_blank"}
