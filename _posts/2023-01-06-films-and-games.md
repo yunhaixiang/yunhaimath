@@ -36,7 +36,6 @@ tags: [favorites]
 - [*Fullmetal Alchemist: Brotherhood* (2009)](https://www.imdb.com/title/tt1355642/){:target="_blank"}
 - [*Code Geass* (2006)](https://www.imdb.com/title/tt0994314/){:target="_blank"}
 - [*Vinland Saga* (2019)](https://www.imdb.com/title/tt10233448/){:target="_blank"}
-- [*Megalo Box* (2018)](https://www.imdb.com/title/tt7965802/){:target="_blank"}
 - [*Asobi Asobase* (2018)](https://www.imdb.com/title/tt8515062/){:target="_blank"}
 - [*Your Lie in April* (2014)](https://www.imdb.com/title/tt3895150/){:target="_blank"}
 - [*Cowboy Bebop* (1998)](https://www.imdb.com/title/tt0213338/){:target="_blank"}
