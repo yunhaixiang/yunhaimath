@@ -6,7 +6,7 @@ tags: [favorites]
 
 ---
 
-### Blogs and Expositions
+### Blogs
 - [The n-Category Café](https://golem.ph.utexas.edu/category/){:target="_blank"}
 - [What's New](https://terrytao.wordpress.com){:target="_blank"}
 - [Neverending Books](http://www.neverendingbooks.org){:target="_blank"}
