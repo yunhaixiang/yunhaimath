@@ -11,7 +11,7 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - Moduli spaces and stacks
 - Galois representations
 
-Outside my main interests, I'm somewhat curious about mathematical logic.
+Outside my research interests, I'm somewhat curious about homotopy type theory and model theory.
 
 ### Publications
 - **This is the title of your paper** \\
