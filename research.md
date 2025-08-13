@@ -8,7 +8,6 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - Rational points
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
-- Moduli spaces and stacks
 - Galois representations
 
 Outside my research interests, I'm somewhat curious about homotopy type theory and model theory.
