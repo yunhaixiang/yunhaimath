@@ -1,0 +1,215 @@
+/* 全站中文用霞鹜文楷（CDN 已注入 @font-face，名字是 "LXGW WenKai"） */
+:root{
+  --cn-wenkai: "LXGW WenKai","WenKai Screen","Kaiti SC","STKaiti","KaiTi","KaiTi_GB2312",serif;
+  --latin-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+                "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+html[lang^="zh"], body:lang(zh){
+  font-family: var(--cn-wenkai), var(--latin-sans);
+  line-height: 1.85;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  line-break: strict;
+  word-break: keep-all;
+  font-variant-east-asian: proportional-width;
+}
+
+/* 正文：段首缩进两字 */
+.cn-prose{
+  font-family: var(--cn-wenkai), var(--latin-sans);
+  letter-spacing: 0.01em;
+}
+.cn-prose p{ margin: 0 0 1em 0; text-indent: 2em; }
+.cn-prose h1, .cn-prose h2, .cn-prose h3,
+.cn-prose h4, .cn-prose h5, .cn-prose h6{
+  margin: 1.2em 0 .6em; font-weight: 700; text-indent: 0;
+}
+.cn-prose .no-indent{ text-indent: 0 !important; }
+
+/* —— 只有一个环境：<pre class="cn-poem"> —— */
+/* 用高优先级 + !important，覆盖主题对 pre 的代码样式 */
+pre.cn-poem{
+  /* 版式：竖排、右到左 */
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+
+  /* 居中：自身定宽 + 两侧 auto（若主题给 pre 宽度 100%，用 !important 顶掉） */
+  display: block;
+  width: fit-content !important;       /* 或 max-content，视浏览器而定 */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-block: 1.2em;
+
+  /* 字体：强行用 WenKai，撤销等宽字体 */
+  font-family: var(--cn-wenkai), var(--latin-sans) !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+
+  /* 行距与字距；保留换行，同时允许长行折行 */
+  line-height: 1.9;
+  letter-spacing: 0.04em;
+  white-space: pre-wrap;
+
+  /* 清掉主题给 pre 的“代码块外观” */
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  overflow: visible !important;
+}
+
+/* 可选：让竖排里的英文/数字横着排，更易读（需要的话取消注释） */
+/* pre.cn-poem, pre.cn-poem *{ text-orientation: mixed; } */
+
+/* 保险：如果主题用更具体的选择器（如 .post pre），再加一刀 */
+.post pre.cn-poem{ width: fit-content !important; margin-left:auto !important; margin-right:auto !important; }
+
+
+
+/* 计数器：每个 .cn-prose 容器内分别编号 */
+.cn-prose{ counter-reset: cn-def 0 cn-thm 0 cn-lem 0 cn-ex 0 cn-exer 0; }
+
+/* 通用：不缩进、正文同款字体 */
+.cn-def, .cn-thm, .cn-lem, .cn-example, .cn-exercise, .cn-proof{
+  margin: 1em 0;
+  font-family: var(--cn-wenkai), var(--latin-sans);
+  text-indent: 0 !important;
+}
+
+/* —— 加粗标签 + 与正文同一行（后接不换行空格） —— */
+.cn-def::before{
+  counter-increment: cn-def;
+  content: "定义 " counter(cn-def) ".\00a0";
+  font-weight: 1000;               /* 更明显的粗度 */
+  font-synthesis: weight;
+}
+.cn-thm::before{
+  counter-increment: cn-thm;
+  content: "定理 " counter(cn-thm) ".\00a0";
+  font-weight: 1000;
+  font-synthesis: weight;
+}
+.cn-lem::before{
+  counter-increment: cn-lem;
+  content: "引理 " counter(cn-lem) ".\00a0";
+  font-weight: 1000;
+  font-synthesis: weight;
+}
+.cn-example::before{
+  counter-increment: cn-ex;
+  content: "例子 " counter(cn-ex) ".\00a0";
+  font-weight: 1000;
+  font-synthesis: weight;
+}
+/* 新增：习题 */
+.cn-exercise::before{
+  counter-increment: cn-exer;
+  content: "习题 " counter(cn-exer) ".\00a0";
+  font-weight: 1000;
+  font-synthesis: weight;
+}
+
+/* 证明：标签同一行、加粗、末尾 ∎ */
+.cn-proof::before{
+  content: "证明.\00a0";
+  font-weight: 1000;
+  font-synthesis: weight;
+}
+.cn-proof::after{
+  content: "∎";
+  display: inline-block;
+  margin-left: .5em;
+  opacity: .9;
+}
+
+/* 如果你在这些环境里用了 <p>，确保不缩进 */
+.cn-def p, .cn-thm p, .cn-lem p, .cn-example p, .cn-exercise p, .cn-proof p{
+  text-indent: 0 !important;
+  margin: .5em 0 0;
+}
+
+/* （可选）想要“更粗一点”的视觉：给环境加 class="cn-label-fat" */
+.cn-label-fat::before{
+  /* 细微的多向投影模拟更粗的笔画（对 CJK 也较友好） */
+  text-shadow: 0 .015em 0 currentColor, 0 -.015em 0 currentColor,
+               .015em 0 0 currentColor, -.015em 0 0 currentColor;
+}
+
+/* 英文正文容器：不指定 font-family -> 完全继承网站默认字体 */
+.en-prose{
+  font: inherit;                 /* 关键：继承主题字体、字号、行高等 */
+  line-height: 1.75;             /* 如需与站点一致也可删掉这一行 */
+  letter-spacing: 0;
+  text-align: justify;
+}
+
+/* 英文段落：也继承字体，只加缩进与间距 */
+.en-prose p{
+  margin: 0 0 1em 0;
+  text-indent: 2em;              /* 首行缩进两字宽（英文同样有效） */
+}
+
+/* 英文标题：继承站点默认标题字体；仅做间距/粗细 */
+.en-prose h1, .en-prose h2, .en-prose h3,
+.en-prose h4, .en-prose h5, .en-prose h6{
+  font: inherit;                 /* 继承（不改字体） */
+  font-weight: 700;
+  margin: 1.2em 0 .6em;
+  text-indent: 0;
+}
+
+/* 允许个别段落取消缩进 */
+.en-prose .no-indent{ text-indent: 0 !important; }
+
+/* —— English theorem-like environments（自动编号、粗体标签、同一行）—— */
+/* 每个 .en-prose 容器内分别编号 */
+.en-prose{ counter-reset: en-def 0 en-thm 0 en-lem 0 en-ex 0 en-exer 0; }
+
+/* 通用：继承站点字体，不额外指定 font-family */
+.en-def, .en-thm, .en-lem, .en-example, .en-exercise, .en-proof{
+  margin: 1em 0;
+  font: inherit;
+}
+.en-def p, .en-thm p, .en-lem p, .en-example p, .en-exercise p, .en-proof p{
+  text-indent: 0 !important;
+  margin: .5em 0 0;
+}
+
+/* 粗体标签，同一行；标签后接不换行空格 */
+.en-def::before{
+  counter-increment: en-def;
+  content: "Definition " counter(en-def) ".\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+.en-thm::before{
+  counter-increment: en-thm;
+  content: "Theorem " counter(en-thm) ".\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+.en-lem::before{
+  counter-increment: en-lem;
+  content: "Lemma " counter(en-lem) ".\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+.en-example::before{
+  counter-increment: en-ex;
+  content: "Example " counter(en-ex) ".\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+.en-exercise::before{
+  counter-increment: en-exer;
+  content: "Exercise " counter(en-exer) ".\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+
+/* Proof：同一行显示“Proof.”，右侧自动 ∎ */
+.en-proof::before{
+  content: "Proof.\00a0";
+  font-weight: 800; font-synthesis: weight;
+}
+.en-proof::after{
+  content: "∎";
+  display: inline-block;
+  margin-left: .5em;
+  opacity: .9;
+}

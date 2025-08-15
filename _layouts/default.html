@@ -5,7 +5,7 @@ layout: compress
 {% include head.html %}
 
     <main>
-
+        <html lang="{{ page.lang | default: site.lang | default: 'en' }}"></html>
         {% include header.html %}
 
         {{ content }}

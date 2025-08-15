@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Writings
+title: Blog
 description: Here be writings
 permalink: /blog
 ---

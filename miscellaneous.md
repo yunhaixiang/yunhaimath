@@ -6,7 +6,8 @@ permalink: /miscellaneous
 
 
 ### Course Notes
-- coming soon
+- Linear Algebraic Groups (coming soon)
+
 
 
 <!--- - [Classical Music Pieces](blog/classical-music-pieces) 

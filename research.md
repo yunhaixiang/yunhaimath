@@ -9,8 +9,9 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - Ramification theory
 - \\(\mathbb A^1\\)-enumerative geometry
 - Galois representations
+- Moduli spaces and stacks 
 
-Outside my research interests, I'm somewhat curious about mathematical logic. 
+Outside my research interests, I'm curious about mathematical logic. 
 
 ### Publications
 - **This is the title of your paper** \\
