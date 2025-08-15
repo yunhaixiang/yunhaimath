@@ -10,6 +10,7 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - \\(\mathbb A^1\\)-enumerative geometry
 - Galois representations
 
+Outside my research interests, I'm somewhat curious about mathematical logic. 
 
 ### Publications
 - **This is the title of your paper** \\
