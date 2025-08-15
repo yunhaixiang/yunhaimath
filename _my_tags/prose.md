@@ -1,4 +1,4 @@
 ---
 slug: Prose
-name: Prose
+name: prose
 ---
