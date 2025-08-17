@@ -9,6 +9,9 @@ permalink: /miscellaneous
 - Linear Algebraic Groups (coming soon)
 
 
+### Expository Notes
+- Coming soon
+
 
 <!--- - [Classical Music Pieces](blog/classical-music-pieces) 
 - [Books and Essays](blog/books-and-essays)
