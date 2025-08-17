@@ -114,6 +114,7 @@ tags: [favorites]
 - [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html){:target="_blank"}
 - [LaTeX](https://www.latex-project.org){:target="_blank"}
 - [Gerby](https://gerby-project.github.io){:target="_blank"}
+- [Forester](https://www.forester-notes.org/index/index.xml){:target="_blank"}
 - [PubPub](https://www.pubpub.org/){:target="_blank"}
 - [PreTeXt](https://pretextbook.org/){:target="_blank"}
 - [Quarto](https://quarto.org/){:target="_blank"}
