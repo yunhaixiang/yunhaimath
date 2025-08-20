@@ -11,7 +11,7 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - Ramification theory
 - Moduli spaces and stacks 
 
-Outside my main interests, I'm also somewhat curious about mathematical logic. 
+Outside my main interests, I'm also curious about mathematical logic, especially model theory. 
 
 ### Publications
 - **This is the title of your paper** \\
