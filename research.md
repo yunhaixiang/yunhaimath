@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research
 ---
-My research interests lie mainly in number theory, and in particular arithmetic geometry. I especially like topics of a cohomological flavor. More specifically, some topics I'm interested in are:
+My research interests lie mainly in number theory, arithmeric geometry, and algebra. I also have some secondary interests in mathematical logic. More specifically, some topics I'm interested in are:
 
 - Rational points
 - Galois representations
@@ -11,7 +11,6 @@ My research interests lie mainly in number theory, and in particular arithmetic 
 - Ramification theory
 - Moduli spaces and stacks 
 
-Outside my main interests, I'm also curious about mathematical logic.
 
 ### Publications
 - **This is the title of your paper** \\
