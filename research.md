@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research
 ---
-My research interests lie mainly in number theory, arithmeric geometry, and algebra. I also have some secondary interests in mathematical logic. More specifically, some topics I'm interested in are:
+My research interests mainly lie in number theory and arithmetic geometry. I also have  secondary interests in mathematical logic. More specifically, some topics I'm interested in are:
 
 - Rational points
 - Galois representations
