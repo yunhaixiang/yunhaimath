@@ -9,7 +9,6 @@ My research interests mainly lie in number theory and arithmetic geometry. I als
 - Galois representations
 - \\(\mathbb A^1\\)-enumerative geometry
 - Ramification theory
-- Moduli spaces and stacks 
 
 
 ### Publications
