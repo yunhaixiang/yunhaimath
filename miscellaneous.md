@@ -5,12 +5,12 @@ permalink: /miscellaneous
 ---
 
 
-### Course Notes
+### Notes
 - Linear Algebraic Groups (coming soon)
 - Algebraic Curves and Abelian Varieties (coming soon)
 
-### Expository Notes
-- Coming soon
-
 ### Archives
 - [Websites](/blog/websites)
+- [Books](/blog/books)
+- [Films](/blog/films)
+- [Anime](/blog/anime)
