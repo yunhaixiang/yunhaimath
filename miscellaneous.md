@@ -14,3 +14,4 @@ permalink: /miscellaneous
 - [Books](/blog/books)
 - [Films](/blog/films)
 - [Anime](/blog/anime)
+- [Games](/blog/games)
