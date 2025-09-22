@@ -74,6 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-bear-theme!
+  jekyll-redirect-from
 
 BUNDLED WITH
    2.3.26
