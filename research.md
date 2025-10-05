@@ -10,7 +10,7 @@ My research interests mainly lie in number theory and arithmetic geometry. More 
 - Galois representations
 - Ramification theory
 
-I am also very curious about mathematical logic and representation theory. 
+Outside my main interests, I'm also curious about mathematical logic, especially model theory. 
 
 ### Publications
 - **This is the title of your paper** \\
