@@ -10,6 +10,8 @@ My research interests mainly lie in number theory and arithmetic geometry. More 
 - Galois representations
 - Ramification theory
 
+I also enjoy learning about mathematical logic and representation theory. 
+
 ### Publications
 - **This is the title of your paper** \\
 Joint with: John Doe  \\
