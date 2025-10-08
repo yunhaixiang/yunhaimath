@@ -5,7 +5,7 @@ permalink: /research
 ---
 My research interests mainly lie in number theory and arithmetic geometry. More specifically, some topics that I especially want to understand are the following
 
-- Cohomology theories in arithmetic geometry
+
 - Rational points on varieties and algebraic stacks
 - Motivic homotopy theory and enumerative geometry
 - Galois representations, lisse sheaves, and ramification theory
