@@ -7,7 +7,7 @@ My research interests mainly lie in number theory and arithmetic geometry. More 
 
 
 - Rational points on varieties and algebraic stacks
-- Motivic homotopy theory and enumerative geometry
+- Enumerative geometry over arithmetic ground fields
 - Galois representations, lisse sheaves, and ramification theory
 
 I also love to learn more about mathematical logic, especially model theory. 
