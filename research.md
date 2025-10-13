@@ -7,7 +7,7 @@ My research interests mainly lie in number theory and arithmetic geometry. More 
 
 - Cohomology theories in arithmetic geometry
 - Rational points on varieties and algebraic stacks
-- Enumerative geometry over arithmetic ground fields
+- Enumerative geometry over arbitrary ground fields
 - Galois representations, lisse sheaves, and ramification theory
 
 I would also love to learn more about representation theory and mathematical logic. 
