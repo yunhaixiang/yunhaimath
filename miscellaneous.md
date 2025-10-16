@@ -6,7 +6,7 @@ permalink: /miscellaneous
 
 
 ### Notes
-- Linear Algebraic Groups (coming soon)
+- Linear Algebraic Groups and Representation Theory (coming soon)
 - Algebraic Curves and Abelian Varieties (coming soon)
 
 ### Archives
