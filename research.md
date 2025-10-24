@@ -10,7 +10,7 @@ My research interests mainly lie in number theory and arithmetic geometry. More 
 - Enumerative geometry over arbitrary ground fields
 - Galois representations, lisse sheaves, and ramification theory
 
-I would also love to learn more about mathematical logic and representation theory. At heart, I am an algebraist, and I enjoy algebraic mathematics of all flavors. 
+I would also love to learn more about mathematical logic and representation theory. At heart, I am an algebraist, and I enjoy all kinds of mathematics of an algebraic or "conceptual" flavor. 
 
 ### Publications
 - **This is the title of your paper** \\
