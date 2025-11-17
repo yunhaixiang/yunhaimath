@@ -16,5 +16,5 @@ permalink: /miscellaneous
 - [Anime](/blog/anime)
 - [Games](/blog/games)
 
-### Originals
+### Original Works
 - [Writings](/blog/writings)
